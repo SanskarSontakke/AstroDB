@@ -1,0 +1,1502 @@
+[
+  {
+    "object_id": "STAR_SOL",
+    "title": "Sun (Sol)",
+    "category": "Star",
+    "content_chunk": "Object Name: Sun (Sol)\nObject Type: Star\nConstellation: N/A\nDistance: 1.58e-05 light years (4.8e-06 pc)\nCoordinates: RA 00h 00m 00s (0.0 deg), Dec +00\u00b0 00\u2032 00\u2033 (0.0 deg)\nApparent Magnitude: -26.74, Absolute Magnitude: 4.83\nStar Details: Spectral Type G2V (GV), Temperature 5778.0 K, Mass 1.0 Solar, Radius 1.0 Solar, Luminosity 1.0 Solar, Metallicity [Fe/H] 0.0, Evolutionary Stage: Main Sequence, Number of Planets: 8\nCatalog Cross References: IAU: Sol, Designation: Sun",
+    "metadata": {
+      "primary_name": "Sun (Sol)",
+      "object_type": "Star",
+      "constellation": null,
+      "distance_ly": 1.58e-05,
+      "apparent_magnitude": -26.74,
+      "ra_deg": 0.0,
+      "dec_deg": 0.0
+    }
+  },
+  {
+    "object_id": "DSO_M1",
+    "title": "M1 (Crab Nebula)",
+    "category": "Supernova Remnant",
+    "content_chunk": "Object Name: M1 (Crab Nebula)\nObject Type: Supernova Remnant\nConstellation: TAU\nDistance: 6500.0 light years (2000.0 pc)\nCoordinates: RA 05h 34m 31.9s (83.6331 deg), Dec +22\u00b0 00\u2032 52\u2033 (22.0145 deg)\nApparent Magnitude: 8.4, Absolute Magnitude: -3.1\nDiscovered: 1731 by John Bevis\nCatalog Cross References: Messier: M1, NGC_IC: NGC 1952",
+    "metadata": {
+      "primary_name": "M1 (Crab Nebula)",
+      "object_type": "Supernova Remnant",
+      "constellation": "TAU",
+      "distance_ly": 6500.0,
+      "apparent_magnitude": 8.4,
+      "ra_deg": 83.6331,
+      "dec_deg": 22.0145
+    }
+  },
+  {
+    "object_id": "DSO_M2",
+    "title": "M2 (Pegasus Globular Cluster)",
+    "category": "Globular Cluster",
+    "content_chunk": "Object Name: M2 (Pegasus Globular Cluster)\nObject Type: Globular Cluster\nConstellation: AQR\nDistance: 37500.0 light years (11500.0 pc)\nCoordinates: RA 21h 33m 27.0s (323.3626 deg), Dec -00\u00b0 49\u2032 24\u2033 (-0.8233 deg)\nApparent Magnitude: 6.5, Absolute Magnitude: -6.5\nDiscovered: 1746 by Jean-Dominique Maraldi\nCatalog Cross References: Messier: M2, NGC_IC: NGC 7089",
+    "metadata": {
+      "primary_name": "M2 (Pegasus Globular Cluster)",
+      "object_type": "Globular Cluster",
+      "constellation": "AQR",
+      "distance_ly": 37500.0,
+      "apparent_magnitude": 6.5,
+      "ra_deg": 323.3626,
+      "dec_deg": -0.8233
+    }
+  },
+  {
+    "object_id": "DSO_M3",
+    "title": "M3 (Canes Venatici Globular)",
+    "category": "Globular Cluster",
+    "content_chunk": "Object Name: M3 (Canes Venatici Globular)\nObject Type: Globular Cluster\nConstellation: CVN\nDistance: 33900.0 light years (10400.0 pc)\nCoordinates: RA 13h 42m 11.6s (205.5484 deg), Dec +28\u00b0 22\u2032 38\u2033 (28.3773 deg)\nApparent Magnitude: 6.2, Absolute Magnitude: -6.9\nDiscovered: 1764 by Charles Messier\nCatalog Cross References: Messier: M3, NGC_IC: NGC 5272",
+    "metadata": {
+      "primary_name": "M3 (Canes Venatici Globular)",
+      "object_type": "Globular Cluster",
+      "constellation": "CVN",
+      "distance_ly": 33900.0,
+      "apparent_magnitude": 6.2,
+      "ra_deg": 205.5484,
+      "dec_deg": 28.3773
+    }
+  },
+  {
+    "object_id": "DSO_M4",
+    "title": "M4 (Cat's Eye Globular)",
+    "category": "Globular Cluster",
+    "content_chunk": "Object Name: M4 (Cat's Eye Globular)\nObject Type: Globular Cluster\nConstellation: SCO\nDistance: 7200.0 light years (2200.0 pc)\nCoordinates: RA 16h 23m 35.2s (245.8967 deg), Dec -26\u00b0 31\u2032 32\u2033 (-26.5255 deg)\nApparent Magnitude: 5.9, Absolute Magnitude: -4.9\nDiscovered: 1745 by Jean-Philippe de Cheseaux\nCatalog Cross References: Messier: M4, NGC_IC: NGC 6121",
+    "metadata": {
+      "primary_name": "M4 (Cat's Eye Globular)",
+      "object_type": "Globular Cluster",
+      "constellation": "SCO",
+      "distance_ly": 7200.0,
+      "apparent_magnitude": 5.9,
+      "ra_deg": 245.8967,
+      "dec_deg": -26.5255
+    }
+  },
+  {
+    "object_id": "DSO_M5",
+    "title": "M5 (Rose Cluster)",
+    "category": "Globular Cluster",
+    "content_chunk": "Object Name: M5 (Rose Cluster)\nObject Type: Globular Cluster\nConstellation: SER\nDistance: 24500.0 light years (7500.0 pc)\nCoordinates: RA 15h 18m 33.2s (229.6384 deg), Dec +02\u00b0 04\u2032 52\u2033 (2.0811 deg)\nApparent Magnitude: 5.6, Absolute Magnitude: -7.0\nDiscovered: 1702 by Gottfried Kirch\nCatalog Cross References: Messier: M5, NGC_IC: NGC 5904",
+    "metadata": {
+      "primary_name": "M5 (Rose Cluster)",
+      "object_type": "Globular Cluster",
+      "constellation": "SER",
+      "distance_ly": 24500.0,
+      "apparent_magnitude": 5.6,
+      "ra_deg": 229.6384,
+      "dec_deg": 2.0811
+    }
+  },
+  {
+    "object_id": "DSO_M6",
+    "title": "M6 (Butterfly Cluster)",
+    "category": "Open Cluster",
+    "content_chunk": "Object Name: M6 (Butterfly Cluster)\nObject Type: Open Cluster\nConstellation: SCO\nDistance: 1600.0 light years (490.0 pc)\nCoordinates: RA 17h 40m 20.0s (265.0833 deg), Dec -32\u00b0 15\u2032 15\u2033 (-32.2542 deg)\nApparent Magnitude: 4.2, Absolute Magnitude: -4.0\nDiscovered: 1654 by Giovanni Battista Hodierna\nCatalog Cross References: Messier: M6, NGC_IC: NGC 6405",
+    "metadata": {
+      "primary_name": "M6 (Butterfly Cluster)",
+      "object_type": "Open Cluster",
+      "constellation": "SCO",
+      "distance_ly": 1600.0,
+      "apparent_magnitude": 4.2,
+      "ra_deg": 265.0833,
+      "dec_deg": -32.2542
+    }
+  },
+  {
+    "object_id": "DSO_M7",
+    "title": "M7 (Ptolemy's Cluster)",
+    "category": "Open Cluster",
+    "content_chunk": "Object Name: M7 (Ptolemy's Cluster)\nObject Type: Open Cluster\nConstellation: SCO\nDistance: 980.0 light years (300.0 pc)\nCoordinates: RA 17h 53m 51.2s (268.4633 deg), Dec -34\u00b0 47\u2032 34\u2033 (-34.7928 deg)\nApparent Magnitude: 3.3, Absolute Magnitude: -4.5\nDiscovered: 130 by Ptolemy\nCatalog Cross References: Messier: M7, NGC_IC: NGC 6475",
+    "metadata": {
+      "primary_name": "M7 (Ptolemy's Cluster)",
+      "object_type": "Open Cluster",
+      "constellation": "SCO",
+      "distance_ly": 980.0,
+      "apparent_magnitude": 3.3,
+      "ra_deg": 268.4633,
+      "dec_deg": -34.7928
+    }
+  },
+  {
+    "object_id": "DSO_M8",
+    "title": "M8 (Lagoon Nebula)",
+    "category": "Emission Nebula",
+    "content_chunk": "Object Name: M8 (Lagoon Nebula)\nObject Type: Emission Nebula\nConstellation: SGR\nDistance: 4100.0 light years (1250.0 pc)\nCoordinates: RA 18h 03m 37.0s (270.9042 deg), Dec -24\u00b0 23\u2032 12\u2033 (-24.3867 deg)\nApparent Magnitude: 6.0, Absolute Magnitude: -4.5\nDiscovered: 1654 by Giovanni Battista Hodierna\nCatalog Cross References: Messier: M8, NGC_IC: NGC 6523",
+    "metadata": {
+      "primary_name": "M8 (Lagoon Nebula)",
+      "object_type": "Emission Nebula",
+      "constellation": "SGR",
+      "distance_ly": 4100.0,
+      "apparent_magnitude": 6.0,
+      "ra_deg": 270.9042,
+      "dec_deg": -24.3867
+    }
+  },
+  {
+    "object_id": "DSO_M9",
+    "title": "M9 (Ophiuchus Globular)",
+    "category": "Globular Cluster",
+    "content_chunk": "Object Name: M9 (Ophiuchus Globular)\nObject Type: Globular Cluster\nConstellation: OPH\nDistance: 25800.0 light years (7900.0 pc)\nCoordinates: RA 17h 19m 11.8s (259.7991 deg), Dec -18\u00b0 30\u2032 59\u2033 (-18.5164 deg)\nApparent Magnitude: 7.7, Absolute Magnitude: -5.2\nDiscovered: 1764 by Charles Messier\nCatalog Cross References: Messier: M9, NGC_IC: NGC 6333",
+    "metadata": {
+      "primary_name": "M9 (Ophiuchus Globular)",
+      "object_type": "Globular Cluster",
+      "constellation": "OPH",
+      "distance_ly": 25800.0,
+      "apparent_magnitude": 7.7,
+      "ra_deg": 259.7991,
+      "dec_deg": -18.5164
+    }
+  },
+  {
+    "object_id": "DSO_M10",
+    "title": "M10 (Ophiuchus Globular II)",
+    "category": "Globular Cluster",
+    "content_chunk": "Object Name: M10 (Ophiuchus Globular II)\nObject Type: Globular Cluster\nConstellation: OPH\nDistance: 14300.0 light years (4400.0 pc)\nCoordinates: RA 16h 57m 09.0s (254.2875 deg), Dec -04\u00b0 06\u2032 01\u2033 (-4.1003 deg)\nApparent Magnitude: 6.4, Absolute Magnitude: -5.3\nDiscovered: 1764 by Charles Messier\nCatalog Cross References: Messier: M10, NGC_IC: NGC 6254",
+    "metadata": {
+      "primary_name": "M10 (Ophiuchus Globular II)",
+      "object_type": "Globular Cluster",
+      "constellation": "OPH",
+      "distance_ly": 14300.0,
+      "apparent_magnitude": 6.4,
+      "ra_deg": 254.2875,
+      "dec_deg": -4.1003
+    }
+  },
+  {
+    "object_id": "DSO_M11",
+    "title": "M11 (Wild Duck Cluster)",
+    "category": "Open Cluster",
+    "content_chunk": "Object Name: M11 (Wild Duck Cluster)\nObject Type: Open Cluster\nConstellation: SCT\nDistance: 6200.0 light years (1900.0 pc)\nCoordinates: RA 18h 51m 05.9s (282.7746 deg), Dec -06\u00b0 16\u2032 12\u2033 (-6.27 deg)\nApparent Magnitude: 5.8, Absolute Magnitude: -4.7\nDiscovered: 1681 by Gottfried Kirch\nCatalog Cross References: Messier: M11, NGC_IC: NGC 6705",
+    "metadata": {
+      "primary_name": "M11 (Wild Duck Cluster)",
+      "object_type": "Open Cluster",
+      "constellation": "SCT",
+      "distance_ly": 6200.0,
+      "apparent_magnitude": 5.8,
+      "ra_deg": 282.7746,
+      "dec_deg": -6.27
+    }
+  },
+  {
+    "object_id": "DSO_M12",
+    "title": "M12 (Gumball Globular)",
+    "category": "Globular Cluster",
+    "content_chunk": "Object Name: M12 (Gumball Globular)\nObject Type: Globular Cluster\nConstellation: OPH\nDistance: 15700.0 light years (4800.0 pc)\nCoordinates: RA 16h 47m 14.5s (251.8105 deg), Dec -01\u00b0 56\u2032 52\u2033 (-1.9478 deg)\nApparent Magnitude: 6.7, Absolute Magnitude: -5.2\nDiscovered: 1764 by Charles Messier\nCatalog Cross References: Messier: M12, NGC_IC: NGC 6218",
+    "metadata": {
+      "primary_name": "M12 (Gumball Globular)",
+      "object_type": "Globular Cluster",
+      "constellation": "OPH",
+      "distance_ly": 15700.0,
+      "apparent_magnitude": 6.7,
+      "ra_deg": 251.8105,
+      "dec_deg": -1.9478
+    }
+  },
+  {
+    "object_id": "DSO_M13",
+    "title": "M13 (Great Hercules Globular)",
+    "category": "Globular Cluster",
+    "content_chunk": "Object Name: M13 (Great Hercules Globular)\nObject Type: Globular Cluster\nConstellation: HER\nDistance: 22200.0 light years (6800.0 pc)\nCoordinates: RA 16h 41m 41.6s (250.4235 deg), Dec +36\u00b0 27\u2032 35\u2033 (36.4598 deg)\nApparent Magnitude: 5.8, Absolute Magnitude: -7.3\nDiscovered: 1714 by Edmond Halley\nCatalog Cross References: Messier: M13, NGC_IC: NGC 6205",
+    "metadata": {
+      "primary_name": "M13 (Great Hercules Globular)",
+      "object_type": "Globular Cluster",
+      "constellation": "HER",
+      "distance_ly": 22200.0,
+      "apparent_magnitude": 5.8,
+      "ra_deg": 250.4235,
+      "dec_deg": 36.4598
+    }
+  },
+  {
+    "object_id": "DSO_M14",
+    "title": "M14 (Ophiuchus Globular III)",
+    "category": "Globular Cluster",
+    "content_chunk": "Object Name: M14 (Ophiuchus Globular III)\nObject Type: Globular Cluster\nConstellation: OPH\nDistance: 30300.0 light years (9300.0 pc)\nCoordinates: RA 17h 37m 36.1s (264.4006 deg), Dec -03\u00b0 14\u2032 45\u2033 (-3.2459 deg)\nApparent Magnitude: 7.6, Absolute Magnitude: -6.0\nDiscovered: 1764 by Charles Messier\nCatalog Cross References: Messier: M14, NGC_IC: NGC 6402",
+    "metadata": {
+      "primary_name": "M14 (Ophiuchus Globular III)",
+      "object_type": "Globular Cluster",
+      "constellation": "OPH",
+      "distance_ly": 30300.0,
+      "apparent_magnitude": 7.6,
+      "ra_deg": 264.4006,
+      "dec_deg": -3.2459
+    }
+  },
+  {
+    "object_id": "DSO_M15",
+    "title": "M15 (Great Pegasus Cluster)",
+    "category": "Globular Cluster",
+    "content_chunk": "Object Name: M15 (Great Pegasus Cluster)\nObject Type: Globular Cluster\nConstellation: PEG\nDistance: 33600.0 light years (10300.0 pc)\nCoordinates: RA 21h 29m 58.3s (322.493 deg), Dec +12\u00b0 10\u2032 01\u2033 (12.167 deg)\nApparent Magnitude: 6.2, Absolute Magnitude: -7.3\nDiscovered: 1746 by Jean-Dominique Maraldi\nCatalog Cross References: Messier: M15, NGC_IC: NGC 7078",
+    "metadata": {
+      "primary_name": "M15 (Great Pegasus Cluster)",
+      "object_type": "Globular Cluster",
+      "constellation": "PEG",
+      "distance_ly": 33600.0,
+      "apparent_magnitude": 6.2,
+      "ra_deg": 322.493,
+      "dec_deg": 12.167
+    }
+  },
+  {
+    "object_id": "DSO_M16",
+    "title": "M16 (Eagle Nebula (Pillars of Creation))",
+    "category": "Emission Nebula",
+    "content_chunk": "Object Name: M16 (Eagle Nebula (Pillars of Creation))\nObject Type: Emission Nebula\nConstellation: SER\nDistance: 7000.0 light years (2150.0 pc)\nCoordinates: RA 18h 18m 48.0s (274.7 deg), Dec -13\u00b0 49\u2032 00\u2033 (-13.8167 deg)\nApparent Magnitude: 6.0, Absolute Magnitude: -4.5\nDiscovered: 1745 by Jean-Philippe de Cheseaux\nCatalog Cross References: Messier: M16, NGC_IC: NGC 6611",
+    "metadata": {
+      "primary_name": "M16 (Eagle Nebula (Pillars of Creation))",
+      "object_type": "Emission Nebula",
+      "constellation": "SER",
+      "distance_ly": 7000.0,
+      "apparent_magnitude": 6.0,
+      "ra_deg": 274.7,
+      "dec_deg": -13.8167
+    }
+  },
+  {
+    "object_id": "DSO_M17",
+    "title": "M17 (Omega / Swan Nebula)",
+    "category": "Emission Nebula",
+    "content_chunk": "Object Name: M17 (Omega / Swan Nebula)\nObject Type: Emission Nebula\nConstellation: SGR\nDistance: 5500.0 light years (1700.0 pc)\nCoordinates: RA 18h 20m 47.0s (275.1958 deg), Dec -16\u00b0 10\u2032 18\u2033 (-16.1717 deg)\nApparent Magnitude: 6.0, Absolute Magnitude: -4.8\nDiscovered: 1745 by Jean-Philippe de Cheseaux\nCatalog Cross References: Messier: M17, NGC_IC: NGC 6618",
+    "metadata": {
+      "primary_name": "M17 (Omega / Swan Nebula)",
+      "object_type": "Emission Nebula",
+      "constellation": "SGR",
+      "distance_ly": 5500.0,
+      "apparent_magnitude": 6.0,
+      "ra_deg": 275.1958,
+      "dec_deg": -16.1717
+    }
+  },
+  {
+    "object_id": "DSO_M18",
+    "title": "M18 (Black Swan Cluster)",
+    "category": "Open Cluster",
+    "content_chunk": "Object Name: M18 (Black Swan Cluster)\nObject Type: Open Cluster\nConstellation: SGR\nDistance: 4900.0 light years (1500.0 pc)\nCoordinates: RA 18h 19m 58.0s (274.9917 deg), Dec -17\u00b0 06\u2032 06\u2033 (-17.1017 deg)\nApparent Magnitude: 7.5, Absolute Magnitude: -2.5\nDiscovered: 1764 by Charles Messier\nCatalog Cross References: Messier: M18, NGC_IC: NGC 6613",
+    "metadata": {
+      "primary_name": "M18 (Black Swan Cluster)",
+      "object_type": "Open Cluster",
+      "constellation": "SGR",
+      "distance_ly": 4900.0,
+      "apparent_magnitude": 7.5,
+      "ra_deg": 274.9917,
+      "dec_deg": -17.1017
+    }
+  },
+  {
+    "object_id": "DSO_M19",
+    "title": "M19 (Oblate Globular Cluster)",
+    "category": "Globular Cluster",
+    "content_chunk": "Object Name: M19 (Oblate Globular Cluster)\nObject Type: Globular Cluster\nConstellation: OPH\nDistance: 28700.0 light years (8800.0 pc)\nCoordinates: RA 17h 02m 37.7s (255.6571 deg), Dec -26\u00b0 16\u2032 05\u2033 (-26.268 deg)\nApparent Magnitude: 6.8, Absolute Magnitude: -6.3\nDiscovered: 1764 by Charles Messier\nCatalog Cross References: Messier: M19, NGC_IC: NGC 6273",
+    "metadata": {
+      "primary_name": "M19 (Oblate Globular Cluster)",
+      "object_type": "Globular Cluster",
+      "constellation": "OPH",
+      "distance_ly": 28700.0,
+      "apparent_magnitude": 6.8,
+      "ra_deg": 255.6571,
+      "dec_deg": -26.268
+    }
+  },
+  {
+    "object_id": "DSO_M20",
+    "title": "M20 (Trifid Nebula)",
+    "category": "Emission Nebula",
+    "content_chunk": "Object Name: M20 (Trifid Nebula)\nObject Type: Emission Nebula\nConstellation: SGR\nDistance: 5200.0 light years (1600.0 pc)\nCoordinates: RA 18h 02m 23.0s (270.5958 deg), Dec -23\u00b0 01\u2032 48\u2033 (-23.03 deg)\nApparent Magnitude: 6.3, Absolute Magnitude: -4.0\nDiscovered: 1764 by Charles Messier\nCatalog Cross References: Messier: M20, NGC_IC: NGC 6514",
+    "metadata": {
+      "primary_name": "M20 (Trifid Nebula)",
+      "object_type": "Emission Nebula",
+      "constellation": "SGR",
+      "distance_ly": 5200.0,
+      "apparent_magnitude": 6.3,
+      "ra_deg": 270.5958,
+      "dec_deg": -23.03
+    }
+  },
+  {
+    "object_id": "DSO_M21",
+    "title": "M21 (Webb's Cross Cluster)",
+    "category": "Open Cluster",
+    "content_chunk": "Object Name: M21 (Webb's Cross Cluster)\nObject Type: Open Cluster\nConstellation: SGR\nDistance: 3930.0 light years (1205.0 pc)\nCoordinates: RA 18h 04m 36.0s (271.15 deg), Dec -22\u00b0 30\u2032 00\u2033 (-22.5 deg)\nApparent Magnitude: 6.5, Absolute Magnitude: -3.0\nDiscovered: 1764 by Charles Messier\nCatalog Cross References: Messier: M21, NGC_IC: NGC 6531",
+    "metadata": {
+      "primary_name": "M21 (Webb's Cross Cluster)",
+      "object_type": "Open Cluster",
+      "constellation": "SGR",
+      "distance_ly": 3930.0,
+      "apparent_magnitude": 6.5,
+      "ra_deg": 271.15,
+      "dec_deg": -22.5
+    }
+  },
+  {
+    "object_id": "DSO_M22",
+    "title": "M22 (Great Sagittarius Globular)",
+    "category": "Globular Cluster",
+    "content_chunk": "Object Name: M22 (Great Sagittarius Globular)\nObject Type: Globular Cluster\nConstellation: SGR\nDistance: 10600.0 light years (3250.0 pc)\nCoordinates: RA 18h 36m 24.2s (279.1009 deg), Dec -23\u00b0 54\u2032 12\u2033 (-23.9034 deg)\nApparent Magnitude: 5.1, Absolute Magnitude: -6.5\nDiscovered: 1665 by Abraham Ihle\nCatalog Cross References: Messier: M22, NGC_IC: NGC 6656",
+    "metadata": {
+      "primary_name": "M22 (Great Sagittarius Globular)",
+      "object_type": "Globular Cluster",
+      "constellation": "SGR",
+      "distance_ly": 10600.0,
+      "apparent_magnitude": 5.1,
+      "ra_deg": 279.1009,
+      "dec_deg": -23.9034
+    }
+  },
+  {
+    "object_id": "DSO_M23",
+    "title": "M23 (Sagittarius Open Cluster)",
+    "category": "Open Cluster",
+    "content_chunk": "Object Name: M23 (Sagittarius Open Cluster)\nObject Type: Open Cluster\nConstellation: SGR\nDistance: 2150.0 light years (660.0 pc)\nCoordinates: RA 17h 56m 48.0s (269.2 deg), Dec -19\u00b0 01\u2032 00\u2033 (-19.0167 deg)\nApparent Magnitude: 5.5, Absolute Magnitude: -3.5\nDiscovered: 1764 by Charles Messier\nCatalog Cross References: Messier: M23, NGC_IC: NGC 6494",
+    "metadata": {
+      "primary_name": "M23 (Sagittarius Open Cluster)",
+      "object_type": "Open Cluster",
+      "constellation": "SGR",
+      "distance_ly": 2150.0,
+      "apparent_magnitude": 5.5,
+      "ra_deg": 269.2,
+      "dec_deg": -19.0167
+    }
+  },
+  {
+    "object_id": "DSO_M24",
+    "title": "M24 (Small Sagittarius Star Cloud)",
+    "category": "Milky Way Star Cloud",
+    "content_chunk": "Object Name: M24 (Small Sagittarius Star Cloud)\nObject Type: Milky Way Star Cloud\nConstellation: SGR\nDistance: 10000.0 light years (3100.0 pc)\nCoordinates: RA 18h 16m 54.0s (274.225 deg), Dec -18\u00b0 33\u2032 00\u2033 (-18.55 deg)\nApparent Magnitude: 2.5, Absolute Magnitude: -7.0\nDiscovered: 1764 by Charles Messier\nCatalog Cross References: Messier: M24, NGC_IC: IC 4715",
+    "metadata": {
+      "primary_name": "M24 (Small Sagittarius Star Cloud)",
+      "object_type": "Milky Way Star Cloud",
+      "constellation": "SGR",
+      "distance_ly": 10000.0,
+      "apparent_magnitude": 2.5,
+      "ra_deg": 274.225,
+      "dec_deg": -18.55
+    }
+  },
+  {
+    "object_id": "DSO_M25",
+    "title": "M25 (Open Cluster M25)",
+    "category": "Open Cluster",
+    "content_chunk": "Object Name: M25 (Open Cluster M25)\nObject Type: Open Cluster\nConstellation: SGR\nDistance: 2000.0 light years (620.0 pc)\nCoordinates: RA 18h 31m 47.0s (277.9458 deg), Dec -19\u00b0 07\u2032 00\u2033 (-19.1167 deg)\nApparent Magnitude: 4.6, Absolute Magnitude: -3.9\nDiscovered: 1745 by Jean-Philippe de Cheseaux\nCatalog Cross References: Messier: M25, NGC_IC: IC 4725",
+    "metadata": {
+      "primary_name": "M25 (Open Cluster M25)",
+      "object_type": "Open Cluster",
+      "constellation": "SGR",
+      "distance_ly": 2000.0,
+      "apparent_magnitude": 4.6,
+      "ra_deg": 277.9458,
+      "dec_deg": -19.1167
+    }
+  },
+  {
+    "object_id": "DSO_M27",
+    "title": "M27 (Dumbbell Nebula)",
+    "category": "Planetary Nebula",
+    "content_chunk": "Object Name: M27 (Dumbbell Nebula)\nObject Type: Planetary Nebula\nConstellation: VUL\nDistance: 1360.0 light years (417.0 pc)\nCoordinates: RA 19h 59m 36.3s (299.9014 deg), Dec +22\u00b0 43\u2032 16\u2033 (22.7211 deg)\nApparent Magnitude: 7.5, Absolute Magnitude: -0.6\nDiscovered: 1764 by Charles Messier\nCatalog Cross References: Messier: M27, NGC_IC: NGC 6853",
+    "metadata": {
+      "primary_name": "M27 (Dumbbell Nebula)",
+      "object_type": "Planetary Nebula",
+      "constellation": "VUL",
+      "distance_ly": 1360.0,
+      "apparent_magnitude": 7.5,
+      "ra_deg": 299.9014,
+      "dec_deg": 22.7211
+    }
+  },
+  {
+    "object_id": "DSO_M31",
+    "title": "M31 (Andromeda Galaxy)",
+    "category": "Galaxy",
+    "content_chunk": "Object Name: M31 (Andromeda Galaxy)\nObject Type: Spiral Galaxy\nConstellation: AND\nDistance: 2540000.0 light years (778000.0 pc)\nCoordinates: RA 00h 42m 44.3s (10.6847 deg), Dec +41\u00b0 16\u2032 09\u2033 (41.2692 deg)\nApparent Magnitude: 3.44, Absolute Magnitude: -21.5\nDiscovered: 964 by Abd al-Rahman al-Sufi\nGalaxy Details: Hubble Type SA(s)b, Category Spiral, Total Mass 1000000000000.0 Solar, Diameter 30.0 kpc, Star Formation Rate 2.5 M_sun/yr, SMBH Mass 100000000.0 Solar, AGN Type: None, Interacting: No\nCatalog Cross References: Messier: M31, NGC_IC: NGC 224",
+    "metadata": {
+      "primary_name": "M31 (Andromeda Galaxy)",
+      "object_type": "Spiral Galaxy",
+      "constellation": "AND",
+      "distance_ly": 2540000.0,
+      "apparent_magnitude": 3.44,
+      "ra_deg": 10.6847,
+      "dec_deg": 41.2692
+    }
+  },
+  {
+    "object_id": "DSO_M32",
+    "title": "M32 (Le Gentil Satellite Galaxy)",
+    "category": "Dwarf Elliptical",
+    "content_chunk": "Object Name: M32 (Le Gentil Satellite Galaxy)\nObject Type: Dwarf Elliptical\nConstellation: AND\nDistance: 2490000.0 light years (763000.0 pc)\nCoordinates: RA 00h 42m 41.8s (10.6743 deg), Dec +40\u00b0 51\u2032 55\u2033 (40.8652 deg)\nApparent Magnitude: 8.1, Absolute Magnitude: -16.5\nDiscovered: 1749 by Guillaume Le Gentil\nCatalog Cross References: Messier: M32, NGC_IC: NGC 221",
+    "metadata": {
+      "primary_name": "M32 (Le Gentil Satellite Galaxy)",
+      "object_type": "Dwarf Elliptical",
+      "constellation": "AND",
+      "distance_ly": 2490000.0,
+      "apparent_magnitude": 8.1,
+      "ra_deg": 10.6743,
+      "dec_deg": 40.8652
+    }
+  },
+  {
+    "object_id": "DSO_M33",
+    "title": "M33 (Triangulum Galaxy (Pinwheel))",
+    "category": "Galaxy",
+    "content_chunk": "Object Name: M33 (Triangulum Galaxy (Pinwheel))\nObject Type: Spiral Galaxy\nConstellation: TRI\nDistance: 2730000.0 light years (837000.0 pc)\nCoordinates: RA 01h 33m 50.9s (23.4621 deg), Dec +30\u00b0 39\u2032 36\u2033 (30.66 deg)\nApparent Magnitude: 5.7, Absolute Magnitude: -18.9\nDiscovered: 1654 by Giovanni Battista Hodierna\nGalaxy Details: Hubble Type SA(s)b, Category Spiral, Total Mass 1000000000000.0 Solar, Diameter 30.0 kpc, Star Formation Rate 2.5 M_sun/yr, SMBH Mass 100000000.0 Solar, AGN Type: None, Interacting: No\nCatalog Cross References: Messier: M33, NGC_IC: NGC 598",
+    "metadata": {
+      "primary_name": "M33 (Triangulum Galaxy (Pinwheel))",
+      "object_type": "Spiral Galaxy",
+      "constellation": "TRI",
+      "distance_ly": 2730000.0,
+      "apparent_magnitude": 5.7,
+      "ra_deg": 23.4621,
+      "dec_deg": 30.66
+    }
+  },
+  {
+    "object_id": "DSO_M42",
+    "title": "M42 (Great Orion Nebula)",
+    "category": "Emission Nebula",
+    "content_chunk": "Object Name: M42 (Great Orion Nebula)\nObject Type: Emission Nebula\nConstellation: ORI\nDistance: 1344.0 light years (412.0 pc)\nCoordinates: RA 05h 35m 17.3s (83.8221 deg), Dec -05\u00b0 23\u2032 28\u2033 (-5.3911 deg)\nApparent Magnitude: 4.0, Absolute Magnitude: -5.5\nDiscovered: 1610 by Nicolas-Claude Fabri de Peiresc\nCatalog Cross References: Messier: M42, NGC_IC: NGC 1976",
+    "metadata": {
+      "primary_name": "M42 (Great Orion Nebula)",
+      "object_type": "Emission Nebula",
+      "constellation": "ORI",
+      "distance_ly": 1344.0,
+      "apparent_magnitude": 4.0,
+      "ra_deg": 83.8221,
+      "dec_deg": -5.3911
+    }
+  },
+  {
+    "object_id": "DSO_M43",
+    "title": "M43 (De Mairan's Nebula)",
+    "category": "Emission Nebula",
+    "content_chunk": "Object Name: M43 (De Mairan's Nebula)\nObject Type: Emission Nebula\nConstellation: ORI\nDistance: 1600.0 light years (490.0 pc)\nCoordinates: RA 05h 35m 31.0s (83.8792 deg), Dec -05\u00b0 16\u2032 03\u2033 (-5.2675 deg)\nApparent Magnitude: 9.0, Absolute Magnitude: -2.0\nDiscovered: 1731 by Jean-Jacques d'Ortous de Mairan\nCatalog Cross References: Messier: M43, NGC_IC: NGC 1982",
+    "metadata": {
+      "primary_name": "M43 (De Mairan's Nebula)",
+      "object_type": "Emission Nebula",
+      "constellation": "ORI",
+      "distance_ly": 1600.0,
+      "apparent_magnitude": 9.0,
+      "ra_deg": 83.8792,
+      "dec_deg": -5.2675
+    }
+  },
+  {
+    "object_id": "DSO_M44",
+    "title": "M44 (Beehive Cluster (Praesepe))",
+    "category": "Open Cluster",
+    "content_chunk": "Object Name: M44 (Beehive Cluster (Praesepe))\nObject Type: Open Cluster\nConstellation: CNC\nDistance: 577.0 light years (177.0 pc)\nCoordinates: RA 08h 40m 24.0s (130.1 deg), Dec +19\u00b0 40\u2032 00\u2033 (19.6667 deg)\nApparent Magnitude: 3.7, Absolute Magnitude: 0.2\nDiscovered: 130 by Ptolemy\nCatalog Cross References: Messier: M44, NGC_IC: NGC 2632",
+    "metadata": {
+      "primary_name": "M44 (Beehive Cluster (Praesepe))",
+      "object_type": "Open Cluster",
+      "constellation": "CNC",
+      "distance_ly": 577.0,
+      "apparent_magnitude": 3.7,
+      "ra_deg": 130.1,
+      "dec_deg": 19.6667
+    }
+  },
+  {
+    "object_id": "DSO_M45",
+    "title": "M45 (Pleiades (Seven Sisters))",
+    "category": "Open Cluster",
+    "content_chunk": "Object Name: M45 (Pleiades (Seven Sisters))\nObject Type: Open Cluster\nConstellation: TAU\nDistance: 444.0 light years (136.0 pc)\nCoordinates: RA 03h 47m 24.0s (56.85 deg), Dec +24\u00b0 07\u2032 00\u2033 (24.1167 deg)\nApparent Magnitude: 1.6, Absolute Magnitude: -2.8\nDiscovered: -1000 by Prehistoric\nCatalog Cross References: Messier: M45, NGC_IC: Melotte 22",
+    "metadata": {
+      "primary_name": "M45 (Pleiades (Seven Sisters))",
+      "object_type": "Open Cluster",
+      "constellation": "TAU",
+      "distance_ly": 444.0,
+      "apparent_magnitude": 1.6,
+      "ra_deg": 56.85,
+      "dec_deg": 24.1167
+    }
+  },
+  {
+    "object_id": "DSO_M51",
+    "title": "M51 (Whirlpool Galaxy)",
+    "category": "Galaxy",
+    "content_chunk": "Object Name: M51 (Whirlpool Galaxy)\nObject Type: Spiral Galaxy\nConstellation: CVN\nDistance: 23000000.0 light years (7100000.0 pc)\nCoordinates: RA 13h 29m 52.7s (202.4696 deg), Dec +47\u00b0 11\u2032 43\u2033 (47.1953 deg)\nApparent Magnitude: 8.4, Absolute Magnitude: -21.4\nDiscovered: 1773 by Charles Messier\nGalaxy Details: Hubble Type SA(s)b, Category Spiral, Total Mass 1000000000000.0 Solar, Diameter 30.0 kpc, Star Formation Rate 2.5 M_sun/yr, SMBH Mass 100000000.0 Solar, AGN Type: None, Interacting: No\nCatalog Cross References: Messier: M51, NGC_IC: NGC 5194",
+    "metadata": {
+      "primary_name": "M51 (Whirlpool Galaxy)",
+      "object_type": "Spiral Galaxy",
+      "constellation": "CVN",
+      "distance_ly": 23000000.0,
+      "apparent_magnitude": 8.4,
+      "ra_deg": 202.4696,
+      "dec_deg": 47.1953
+    }
+  },
+  {
+    "object_id": "DSO_M57",
+    "title": "M57 (Ring Nebula)",
+    "category": "Planetary Nebula",
+    "content_chunk": "Object Name: M57 (Ring Nebula)\nObject Type: Planetary Nebula\nConstellation: LYR\nDistance: 2570.0 light years (788.0 pc)\nCoordinates: RA 18h 53m 35.1s (283.3963 deg), Dec +33\u00b0 01\u2032 45\u2033 (33.0292 deg)\nApparent Magnitude: 8.8, Absolute Magnitude: -0.2\nDiscovered: 1779 by Antoine Darquier de Pellepoix\nCatalog Cross References: Messier: M57, NGC_IC: NGC 6720",
+    "metadata": {
+      "primary_name": "M57 (Ring Nebula)",
+      "object_type": "Planetary Nebula",
+      "constellation": "LYR",
+      "distance_ly": 2570.0,
+      "apparent_magnitude": 8.8,
+      "ra_deg": 283.3963,
+      "dec_deg": 33.0292
+    }
+  },
+  {
+    "object_id": "DSO_M64",
+    "title": "M64 (Black Eye Galaxy)",
+    "category": "Galaxy",
+    "content_chunk": "Object Name: M64 (Black Eye Galaxy)\nObject Type: Spiral Galaxy\nConstellation: COM\nDistance: 17300000.0 light years (5300000.0 pc)\nCoordinates: RA 12h 56m 43.7s (194.1821 deg), Dec +21\u00b0 40\u2032 58\u2033 (21.6828 deg)\nApparent Magnitude: 8.5, Absolute Magnitude: -20.5\nDiscovered: 1779 by Edward Pigott\nGalaxy Details: Hubble Type SA(s)b, Category Spiral, Total Mass 1000000000000.0 Solar, Diameter 30.0 kpc, Star Formation Rate 2.5 M_sun/yr, SMBH Mass 100000000.0 Solar, AGN Type: None, Interacting: No\nCatalog Cross References: Messier: M64, NGC_IC: NGC 4826",
+    "metadata": {
+      "primary_name": "M64 (Black Eye Galaxy)",
+      "object_type": "Spiral Galaxy",
+      "constellation": "COM",
+      "distance_ly": 17300000.0,
+      "apparent_magnitude": 8.5,
+      "ra_deg": 194.1821,
+      "dec_deg": 21.6828
+    }
+  },
+  {
+    "object_id": "DSO_M81",
+    "title": "M81 (Bode's Galaxy)",
+    "category": "Galaxy",
+    "content_chunk": "Object Name: M81 (Bode's Galaxy)\nObject Type: Spiral Galaxy\nConstellation: UMA\nDistance: 11800000.0 light years (3620000.0 pc)\nCoordinates: RA 09h 55m 33.2s (148.8883 deg), Dec +69\u00b0 03\u2032 55\u2033 (69.0653 deg)\nApparent Magnitude: 6.94, Absolute Magnitude: -20.8\nDiscovered: 1774 by Johann Elert Bode\nGalaxy Details: Hubble Type SA(s)b, Category Spiral, Total Mass 1000000000000.0 Solar, Diameter 30.0 kpc, Star Formation Rate 2.5 M_sun/yr, SMBH Mass 100000000.0 Solar, AGN Type: None, Interacting: No\nCatalog Cross References: Messier: M81, NGC_IC: NGC 3031",
+    "metadata": {
+      "primary_name": "M81 (Bode's Galaxy)",
+      "object_type": "Spiral Galaxy",
+      "constellation": "UMA",
+      "distance_ly": 11800000.0,
+      "apparent_magnitude": 6.94,
+      "ra_deg": 148.8883,
+      "dec_deg": 69.0653
+    }
+  },
+  {
+    "object_id": "DSO_M82",
+    "title": "M82 (Cigar Galaxy)",
+    "category": "Galaxy",
+    "content_chunk": "Object Name: M82 (Cigar Galaxy)\nObject Type: Starburst Galaxy\nConstellation: UMA\nDistance: 11500000.0 light years (3530000.0 pc)\nCoordinates: RA 09h 55m 52.2s (148.9675 deg), Dec +69\u00b0 40\u2032 47\u2033 (69.6797 deg)\nApparent Magnitude: 8.41, Absolute Magnitude: -19.6\nDiscovered: 1774 by Johann Elert Bode\nGalaxy Details: Hubble Type SA(s)b, Category Spiral, Total Mass 1000000000000.0 Solar, Diameter 30.0 kpc, Star Formation Rate 2.5 M_sun/yr, SMBH Mass 100000000.0 Solar, AGN Type: None, Interacting: No\nCatalog Cross References: Messier: M82, NGC_IC: NGC 3034",
+    "metadata": {
+      "primary_name": "M82 (Cigar Galaxy)",
+      "object_type": "Starburst Galaxy",
+      "constellation": "UMA",
+      "distance_ly": 11500000.0,
+      "apparent_magnitude": 8.41,
+      "ra_deg": 148.9675,
+      "dec_deg": 69.6797
+    }
+  },
+  {
+    "object_id": "DSO_M87",
+    "title": "M87 (Virgo A Supergiant Elliptical)",
+    "category": "Galaxy",
+    "content_chunk": "Object Name: M87 (Virgo A Supergiant Elliptical)\nObject Type: Elliptical Galaxy\nConstellation: VIR\nDistance: 53500000.0 light years (16400000.0 pc)\nCoordinates: RA 12h 30m 49.4s (187.7058 deg), Dec +12\u00b0 23\u2032 28\u2033 (12.3911 deg)\nApparent Magnitude: 8.6, Absolute Magnitude: -22.0\nDiscovered: 1781 by Charles Messier\nGalaxy Details: Hubble Type SA(s)b, Category Spiral, Total Mass 1000000000000.0 Solar, Diameter 30.0 kpc, Star Formation Rate 2.5 M_sun/yr, SMBH Mass 100000000.0 Solar, AGN Type: None, Interacting: No\nCatalog Cross References: Messier: M87, NGC_IC: NGC 4486",
+    "metadata": {
+      "primary_name": "M87 (Virgo A Supergiant Elliptical)",
+      "object_type": "Elliptical Galaxy",
+      "constellation": "VIR",
+      "distance_ly": 53500000.0,
+      "apparent_magnitude": 8.6,
+      "ra_deg": 187.7058,
+      "dec_deg": 12.3911
+    }
+  },
+  {
+    "object_id": "DSO_M101",
+    "title": "M101 (Pinwheel Galaxy)",
+    "category": "Grand Design Spiral",
+    "content_chunk": "Object Name: M101 (Pinwheel Galaxy)\nObject Type: Grand Design Spiral\nConstellation: UMA\nDistance: 20900000.0 light years (6400000.0 pc)\nCoordinates: RA 14h 03m 12.6s (210.8025 deg), Dec +54\u00b0 20\u2032 57\u2033 (54.3492 deg)\nApparent Magnitude: 7.9, Absolute Magnitude: -21.6\nDiscovered: 1781 by Pierre Mechain\nCatalog Cross References: Messier: M101, NGC_IC: NGC 5457",
+    "metadata": {
+      "primary_name": "M101 (Pinwheel Galaxy)",
+      "object_type": "Grand Design Spiral",
+      "constellation": "UMA",
+      "distance_ly": 20900000.0,
+      "apparent_magnitude": 7.9,
+      "ra_deg": 210.8025,
+      "dec_deg": 54.3492
+    }
+  },
+  {
+    "object_id": "DSO_M104",
+    "title": "M104 (Sombrero Galaxy)",
+    "category": "Galaxy",
+    "content_chunk": "Object Name: M104 (Sombrero Galaxy)\nObject Type: Spiral Galaxy\nConstellation: VIR\nDistance: 29300000.0 light years (9000000.0 pc)\nCoordinates: RA 12h 39m 59.4s (189.9975 deg), Dec -11\u00b0 37\u2032 23\u2033 (-11.6231 deg)\nApparent Magnitude: 8.0, Absolute Magnitude: -21.8\nDiscovered: 1781 by Pierre Mechain\nGalaxy Details: Hubble Type SA(s)b, Category Spiral, Total Mass 1000000000000.0 Solar, Diameter 30.0 kpc, Star Formation Rate 2.5 M_sun/yr, SMBH Mass 100000000.0 Solar, AGN Type: None, Interacting: No\nCatalog Cross References: Messier: M104, NGC_IC: NGC 4594",
+    "metadata": {
+      "primary_name": "M104 (Sombrero Galaxy)",
+      "object_type": "Spiral Galaxy",
+      "constellation": "VIR",
+      "distance_ly": 29300000.0,
+      "apparent_magnitude": 8.0,
+      "ra_deg": 189.9975,
+      "dec_deg": -11.6231
+    }
+  },
+  {
+    "object_id": "DSO_M26",
+    "title": "M26 (Messier Object 26)",
+    "category": "Open Cluster",
+    "content_chunk": "Object Name: M26 (Messier Object 26)\nObject Type: Open Cluster\nConstellation: HER\nDistance: 3800.0 light years (1165.086645654227 pc)\nCoordinates: RA 08h 40m 00s (130.2000000000001 deg), Dec +03\u00b0 00\u2032 00\u2033 (3.8000000000000043 deg)\nApparent Magnitude: 5.9, Absolute Magnitude: -3.5\nDiscovered: 1781 by Charles Messier\nCatalog Cross References: Messier: M26, NGC_IC: NGC 2962",
+    "metadata": {
+      "primary_name": "M26 (Messier Object 26)",
+      "object_type": "Open Cluster",
+      "constellation": "HER",
+      "distance_ly": 3800.0,
+      "apparent_magnitude": 5.9,
+      "ra_deg": 130.2000000000001,
+      "dec_deg": 3.8000000000000043
+    }
+  },
+  {
+    "object_id": "DSO_M28",
+    "title": "M28 (Messier Object 28)",
+    "category": "Galaxy",
+    "content_chunk": "Object Name: M28 (Messier Object 28)\nObject Type: Elliptical Galaxy\nConstellation: PER\nDistance: 49600000.0 light years (15207446.743276225 pc)\nCoordinates: RA 13h 02m 00s (195.60000000000008 deg), Dec +06\u00b0 00\u2032 00\u2033 (6.399999999999999 deg)\nApparent Magnitude: 8.8, Absolute Magnitude: -20.5\nDiscovered: 1781 by Charles Messier\nGalaxy Details: Hubble Type SA(s)b, Category Spiral, Total Mass 1000000000000.0 Solar, Diameter 30.0 kpc, Star Formation Rate 2.5 M_sun/yr, SMBH Mass 100000000.0 Solar, AGN Type: None, Interacting: No\nCatalog Cross References: Messier: M28, NGC_IC: NGC 3036",
+    "metadata": {
+      "primary_name": "M28 (Messier Object 28)",
+      "object_type": "Elliptical Galaxy",
+      "constellation": "PER",
+      "distance_ly": 49600000.0,
+      "apparent_magnitude": 8.8,
+      "ra_deg": 195.60000000000008,
+      "dec_deg": 6.399999999999999
+    }
+  },
+  {
+    "object_id": "DSO_M29",
+    "title": "M29 (Messier Object 29)",
+    "category": "Planetary Nebula",
+    "content_chunk": "Object Name: M29 (Messier Object 29)\nObject Type: Planetary Nebula\nConstellation: AUR\nDistance: 2870.0 light years (879.9470192177977 pc)\nCoordinates: RA 15h 13m 00s (228.3000000000001 deg), Dec +07\u00b0 00\u2032 00\u2033 (7.700000000000003 deg)\nApparent Magnitude: 8.9, Absolute Magnitude: -0.5\nDiscovered: 1781 by Charles Messier\nCatalog Cross References: Messier: M29, NGC_IC: NGC 3073",
+    "metadata": {
+      "primary_name": "M29 (Messier Object 29)",
+      "object_type": "Planetary Nebula",
+      "constellation": "AUR",
+      "distance_ly": 2870.0,
+      "apparent_magnitude": 8.9,
+      "ra_deg": 228.3000000000001,
+      "dec_deg": 7.700000000000003
+    }
+  },
+  {
+    "object_id": "DSO_M30",
+    "title": "M30 (Messier Object 30)",
+    "category": "Globular Cluster",
+    "content_chunk": "Object Name: M30 (Messier Object 30)\nObject Type: Globular Cluster\nConstellation: SGR\nDistance: 32000.0 light years (9811.255963404015 pc)\nCoordinates: RA 17h 24m 00s (261.0000000000001 deg), Dec +09\u00b0 00\u2032 00\u2033 (9.0 deg)\nApparent Magnitude: 7.7, Absolute Magnitude: -7.0\nDiscovered: 1781 by Charles Messier\nCatalog Cross References: Messier: M30, NGC_IC: NGC 3110",
+    "metadata": {
+      "primary_name": "M30 (Messier Object 30)",
+      "object_type": "Globular Cluster",
+      "constellation": "SGR",
+      "distance_ly": 32000.0,
+      "apparent_magnitude": 7.7,
+      "ra_deg": 261.0000000000001,
+      "dec_deg": 9.0
+    }
+  },
+  {
+    "object_id": "DSO_M34",
+    "title": "M34 (Messier Object 34)",
+    "category": "Planetary Nebula",
+    "content_chunk": "Object Name: M34 (Messier Object 34)\nObject Type: Planetary Nebula\nConstellation: CYG\nDistance: 3020.0 light years (925.937281546254 pc)\nCoordinates: RA 02h 07m 00s (31.800000000000068 deg), Dec +14\u00b0 00\u2032 00\u2033 (14.200000000000003 deg)\nApparent Magnitude: 9.4, Absolute Magnitude: -0.5\nDiscovered: 1781 by Charles Messier\nCatalog Cross References: Messier: M34, NGC_IC: NGC 3258",
+    "metadata": {
+      "primary_name": "M34 (Messier Object 34)",
+      "object_type": "Planetary Nebula",
+      "constellation": "CYG",
+      "distance_ly": 3020.0,
+      "apparent_magnitude": 9.4,
+      "ra_deg": 31.800000000000068,
+      "dec_deg": 14.200000000000003
+    }
+  },
+  {
+    "object_id": "DSO_M35",
+    "title": "M35 (Messier Object 35)",
+    "category": "Globular Cluster",
+    "content_chunk": "Object Name: M35 (Messier Object 35)\nObject Type: Globular Cluster\nConstellation: UMA\nDistance: 34000.0 light years (10424.459461116767 pc)\nCoordinates: RA 04h 18m 00s (64.50000000000017 deg), Dec +15\u00b0 00\u2032 00\u2033 (15.5 deg)\nApparent Magnitude: 8.3, Absolute Magnitude: -7.0\nDiscovered: 1781 by Charles Messier\nCatalog Cross References: Messier: M35, NGC_IC: NGC 3295",
+    "metadata": {
+      "primary_name": "M35 (Messier Object 35)",
+      "object_type": "Globular Cluster",
+      "constellation": "UMA",
+      "distance_ly": 34000.0,
+      "apparent_magnitude": 8.3,
+      "ra_deg": 64.50000000000017,
+      "dec_deg": 15.5
+    }
+  },
+  {
+    "object_id": "DSO_M36",
+    "title": "M36 (Messier Object 36)",
+    "category": "Open Cluster",
+    "content_chunk": "Object Name: M36 (Messier Object 36)\nObject Type: Open Cluster\nConstellation: HER\nDistance: 4300.0 light years (1318.3875200824145 pc)\nCoordinates: RA 06h 28m 00s (97.20000000000006 deg), Dec +16\u00b0 00\u2032 00\u2033 (16.800000000000004 deg)\nApparent Magnitude: 7.4, Absolute Magnitude: -3.5\nDiscovered: 1781 by Charles Messier\nCatalog Cross References: Messier: M36, NGC_IC: NGC 3332",
+    "metadata": {
+      "primary_name": "M36 (Messier Object 36)",
+      "object_type": "Open Cluster",
+      "constellation": "HER",
+      "distance_ly": 4300.0,
+      "apparent_magnitude": 7.4,
+      "ra_deg": 97.20000000000006,
+      "dec_deg": 16.800000000000004
+    }
+  },
+  {
+    "object_id": "DSO_M37",
+    "title": "M37 (Messier Object 37)",
+    "category": "Galaxy",
+    "content_chunk": "Object Name: M37 (Messier Object 37)\nObject Type: Spiral Galaxy\nConstellation: SCO\nDistance: 55900000.0 light years (17139037.76107139 pc)\nCoordinates: RA 08h 39m 00s (129.90000000000015 deg), Dec +18\u00b0 00\u2032 00\u2033 (18.1 deg)\nApparent Magnitude: 9.7, Absolute Magnitude: -20.5\nDiscovered: 1781 by Charles Messier\nGalaxy Details: Hubble Type SA(s)b, Category Spiral, Total Mass 1000000000000.0 Solar, Diameter 30.0 kpc, Star Formation Rate 2.5 M_sun/yr, SMBH Mass 100000000.0 Solar, AGN Type: None, Interacting: No\nCatalog Cross References: Messier: M37, NGC_IC: NGC 3369",
+    "metadata": {
+      "primary_name": "M37 (Messier Object 37)",
+      "object_type": "Spiral Galaxy",
+      "constellation": "SCO",
+      "distance_ly": 55900000.0,
+      "apparent_magnitude": 9.7,
+      "ra_deg": 129.90000000000015,
+      "dec_deg": 18.1
+    }
+  },
+  {
+    "object_id": "DSO_M38",
+    "title": "M38 (Messier Object 38)",
+    "category": "Galaxy",
+    "content_chunk": "Object Name: M38 (Messier Object 38)\nObject Type: Elliptical Galaxy\nConstellation: PER\nDistance: 56600000.0 light years (17353658.985270854 pc)\nCoordinates: RA 10h 50m 00s (162.60000000000005 deg), Dec +19\u00b0 00\u2032 00\u2033 (19.4 deg)\nApparent Magnitude: 9.8, Absolute Magnitude: -20.5\nDiscovered: 1781 by Charles Messier\nGalaxy Details: Hubble Type SA(s)b, Category Spiral, Total Mass 1000000000000.0 Solar, Diameter 30.0 kpc, Star Formation Rate 2.5 M_sun/yr, SMBH Mass 100000000.0 Solar, AGN Type: None, Interacting: No\nCatalog Cross References: Messier: M38, NGC_IC: NGC 3406",
+    "metadata": {
+      "primary_name": "M38 (Messier Object 38)",
+      "object_type": "Elliptical Galaxy",
+      "constellation": "PER",
+      "distance_ly": 56600000.0,
+      "apparent_magnitude": 9.8,
+      "ra_deg": 162.60000000000005,
+      "dec_deg": 19.4
+    }
+  },
+  {
+    "object_id": "DSO_M39",
+    "title": "M39 (Messier Object 39)",
+    "category": "Planetary Nebula",
+    "content_chunk": "Object Name: M39 (Messier Object 39)\nObject Type: Planetary Nebula\nConstellation: AUR\nDistance: 3170.0 light years (971.9275438747103 pc)\nCoordinates: RA 13h 01m 00s (195.30000000000015 deg), Dec +20\u00b0 00\u2032 00\u2033 (20.700000000000003 deg)\nApparent Magnitude: 9.9, Absolute Magnitude: -0.5\nDiscovered: 1781 by Charles Messier\nCatalog Cross References: Messier: M39, NGC_IC: NGC 3443",
+    "metadata": {
+      "primary_name": "M39 (Messier Object 39)",
+      "object_type": "Planetary Nebula",
+      "constellation": "AUR",
+      "distance_ly": 3170.0,
+      "apparent_magnitude": 9.9,
+      "ra_deg": 195.30000000000015,
+      "dec_deg": 20.700000000000003
+    }
+  },
+  {
+    "object_id": "DSO_M40",
+    "title": "M40 (Messier Object 40)",
+    "category": "Globular Cluster",
+    "content_chunk": "Object Name: M40 (Messier Object 40)\nObject Type: Globular Cluster\nConstellation: SGR\nDistance: 36000.0 light years (11037.662958829518 pc)\nCoordinates: RA 15h 12m 00s (228.00000000000006 deg), Dec +22\u00b0 00\u2032 00\u2033 (22.0 deg)\nApparent Magnitude: 6.5, Absolute Magnitude: -7.0\nDiscovered: 1781 by Charles Messier\nCatalog Cross References: Messier: M40, NGC_IC: NGC 3480",
+    "metadata": {
+      "primary_name": "M40 (Messier Object 40)",
+      "object_type": "Globular Cluster",
+      "constellation": "SGR",
+      "distance_ly": 36000.0,
+      "apparent_magnitude": 6.5,
+      "ra_deg": 228.00000000000006,
+      "dec_deg": 22.0
+    }
+  },
+  {
+    "object_id": "DSO_M41",
+    "title": "M41 (Messier Object 41)",
+    "category": "Open Cluster",
+    "content_chunk": "Object Name: M41 (Messier Object 41)\nObject Type: Open Cluster\nConstellation: OPH\nDistance: 4550.0 light years (1395.0379572965085 pc)\nCoordinates: RA 17h 22m 00s (260.70000000000016 deg), Dec +23\u00b0 00\u2032 00\u2033 (23.300000000000004 deg)\nApparent Magnitude: 5.15, Absolute Magnitude: -3.5\nDiscovered: 1781 by Charles Messier\nCatalog Cross References: Messier: M41, NGC_IC: NGC 3517",
+    "metadata": {
+      "primary_name": "M41 (Messier Object 41)",
+      "object_type": "Open Cluster",
+      "constellation": "OPH",
+      "distance_ly": 4550.0,
+      "apparent_magnitude": 5.15,
+      "ra_deg": 260.70000000000016,
+      "dec_deg": 23.300000000000004
+    }
+  },
+  {
+    "object_id": "DSO_M46",
+    "title": "M46 (Messier Object 46)",
+    "category": "Open Cluster",
+    "content_chunk": "Object Name: M46 (Messier Object 46)\nObject Type: Open Cluster\nConstellation: HER\nDistance: 4800.0 light years (1471.6883945106024 pc)\nCoordinates: RA 04h 16m 00s (64.20000000000002 deg), Dec +29\u00b0 00\u2032 00\u2033 (29.800000000000004 deg)\nApparent Magnitude: 5.9, Absolute Magnitude: -3.5\nDiscovered: 1781 by Charles Messier\nCatalog Cross References: Messier: M46, NGC_IC: NGC 3702",
+    "metadata": {
+      "primary_name": "M46 (Messier Object 46)",
+      "object_type": "Open Cluster",
+      "constellation": "HER",
+      "distance_ly": 4800.0,
+      "apparent_magnitude": 5.9,
+      "ra_deg": 64.20000000000002,
+      "dec_deg": 29.800000000000004
+    }
+  },
+  {
+    "object_id": "DSO_M47",
+    "title": "M47 (Messier Object 47)",
+    "category": "Galaxy",
+    "content_chunk": "Object Name: M47 (Messier Object 47)\nObject Type: Spiral Galaxy\nConstellation: SCO\nDistance: 62900000.0 light years (19285250.00306602 pc)\nCoordinates: RA 06h 27m 00s (96.90000000000012 deg), Dec +31\u00b0 00\u2032 00\u2033 (31.1 deg)\nApparent Magnitude: 10.7, Absolute Magnitude: -20.5\nDiscovered: 1781 by Charles Messier\nGalaxy Details: Hubble Type SA(s)b, Category Spiral, Total Mass 1000000000000.0 Solar, Diameter 30.0 kpc, Star Formation Rate 2.5 M_sun/yr, SMBH Mass 100000000.0 Solar, AGN Type: None, Interacting: No\nCatalog Cross References: Messier: M47, NGC_IC: NGC 3739",
+    "metadata": {
+      "primary_name": "M47 (Messier Object 47)",
+      "object_type": "Spiral Galaxy",
+      "constellation": "SCO",
+      "distance_ly": 62900000.0,
+      "apparent_magnitude": 10.7,
+      "ra_deg": 96.90000000000012,
+      "dec_deg": 31.1
+    }
+  },
+  {
+    "object_id": "DSO_M48",
+    "title": "M48 (Messier Object 48)",
+    "category": "Galaxy",
+    "content_chunk": "Object Name: M48 (Messier Object 48)\nObject Type: Elliptical Galaxy\nConstellation: PER\nDistance: 63600000.0 light years (19499871.22726548 pc)\nCoordinates: RA 08h 38m 00s (129.60000000000022 deg), Dec +32\u00b0 00\u2032 00\u2033 (32.400000000000006 deg)\nApparent Magnitude: 10.8, Absolute Magnitude: -20.5\nDiscovered: 1781 by Charles Messier\nGalaxy Details: Hubble Type SA(s)b, Category Spiral, Total Mass 1000000000000.0 Solar, Diameter 30.0 kpc, Star Formation Rate 2.5 M_sun/yr, SMBH Mass 100000000.0 Solar, AGN Type: None, Interacting: No\nCatalog Cross References: Messier: M48, NGC_IC: NGC 3776",
+    "metadata": {
+      "primary_name": "M48 (Messier Object 48)",
+      "object_type": "Elliptical Galaxy",
+      "constellation": "PER",
+      "distance_ly": 63600000.0,
+      "apparent_magnitude": 10.8,
+      "ra_deg": 129.60000000000022,
+      "dec_deg": 32.400000000000006
+    }
+  },
+  {
+    "object_id": "DSO_M49",
+    "title": "M49 (Messier Object 49)",
+    "category": "Planetary Nebula",
+    "content_chunk": "Object Name: M49 (Messier Object 49)\nObject Type: Planetary Nebula\nConstellation: AUR\nDistance: 3470.0 light years (1063.908068531623 pc)\nCoordinates: RA 10h 49m 00s (162.30000000000013 deg), Dec +33\u00b0 00\u2032 00\u2033 (33.7 deg)\nApparent Magnitude: 8.9, Absolute Magnitude: -0.5\nDiscovered: 1781 by Charles Messier\nCatalog Cross References: Messier: M49, NGC_IC: NGC 3813",
+    "metadata": {
+      "primary_name": "M49 (Messier Object 49)",
+      "object_type": "Planetary Nebula",
+      "constellation": "AUR",
+      "distance_ly": 3470.0,
+      "apparent_magnitude": 8.9,
+      "ra_deg": 162.30000000000013,
+      "dec_deg": 33.7
+    }
+  },
+  {
+    "object_id": "DSO_M50",
+    "title": "M50 (Messier Object 50)",
+    "category": "Globular Cluster",
+    "content_chunk": "Object Name: M50 (Messier Object 50)\nObject Type: Globular Cluster\nConstellation: SGR\nDistance: 40000.0 light years (12264.06995425502 pc)\nCoordinates: RA 13h 00m 00s (195.00000000000023 deg), Dec +35\u00b0 00\u2032 00\u2033 (35.0 deg)\nApparent Magnitude: 7.7, Absolute Magnitude: -7.0\nDiscovered: 1781 by Charles Messier\nCatalog Cross References: Messier: M50, NGC_IC: NGC 3850",
+    "metadata": {
+      "primary_name": "M50 (Messier Object 50)",
+      "object_type": "Globular Cluster",
+      "constellation": "SGR",
+      "distance_ly": 40000.0,
+      "apparent_magnitude": 7.7,
+      "ra_deg": 195.00000000000023,
+      "dec_deg": 35.0
+    }
+  },
+  {
+    "object_id": "DSO_M52",
+    "title": "M52 (Messier Object 52)",
+    "category": "Galaxy",
+    "content_chunk": "Object Name: M52 (Messier Object 52)\nObject Type: Spiral Galaxy\nConstellation: VIR\nDistance: 66400000.0 light years (20358356.12406333 pc)\nCoordinates: RA 17h 21m 00s (260.4000000000002 deg), Dec +37\u00b0 00\u2032 00\u2033 (37.60000000000001 deg)\nApparent Magnitude: 8.7, Absolute Magnitude: -20.5\nDiscovered: 1781 by Charles Messier\nGalaxy Details: Hubble Type SA(s)b, Category Spiral, Total Mass 1000000000000.0 Solar, Diameter 30.0 kpc, Star Formation Rate 2.5 M_sun/yr, SMBH Mass 100000000.0 Solar, AGN Type: None, Interacting: No\nCatalog Cross References: Messier: M52, NGC_IC: NGC 3924",
+    "metadata": {
+      "primary_name": "M52 (Messier Object 52)",
+      "object_type": "Spiral Galaxy",
+      "constellation": "VIR",
+      "distance_ly": 66400000.0,
+      "apparent_magnitude": 8.7,
+      "ra_deg": 260.4000000000002,
+      "dec_deg": 37.60000000000001
+    }
+  },
+  {
+    "object_id": "DSO_M53",
+    "title": "M53 (Messier Object 53)",
+    "category": "Galaxy",
+    "content_chunk": "Object Name: M53 (Messier Object 53)\nObject Type: Elliptical Galaxy\nConstellation: COM\nDistance: 67100000.0 light years (20572977.348262794 pc)\nCoordinates: RA 19h 32m 00s (293.1000000000001 deg), Dec +38\u00b0 00\u2032 00\u2033 (38.900000000000006 deg)\nApparent Magnitude: 8.8, Absolute Magnitude: -20.5\nDiscovered: 1781 by Charles Messier\nGalaxy Details: Hubble Type SA(s)b, Category Spiral, Total Mass 1000000000000.0 Solar, Diameter 30.0 kpc, Star Formation Rate 2.5 M_sun/yr, SMBH Mass 100000000.0 Solar, AGN Type: None, Interacting: No\nCatalog Cross References: Messier: M53, NGC_IC: NGC 3961",
+    "metadata": {
+      "primary_name": "M53 (Messier Object 53)",
+      "object_type": "Elliptical Galaxy",
+      "constellation": "COM",
+      "distance_ly": 67100000.0,
+      "apparent_magnitude": 8.8,
+      "ra_deg": 293.1000000000001,
+      "dec_deg": 38.900000000000006
+    }
+  },
+  {
+    "object_id": "DSO_M54",
+    "title": "M54 (Messier Object 54)",
+    "category": "Planetary Nebula",
+    "content_chunk": "Object Name: M54 (Messier Object 54)\nObject Type: Planetary Nebula\nConstellation: CYG\nDistance: 3620.0 light years (1109.8983308600793 pc)\nCoordinates: RA 21h 43m 00s (325.8000000000002 deg), Dec +40\u00b0 00\u2032 00\u2033 (40.2 deg)\nApparent Magnitude: 9.4, Absolute Magnitude: -0.5\nDiscovered: 1781 by Charles Messier\nCatalog Cross References: Messier: M54, NGC_IC: NGC 3998",
+    "metadata": {
+      "primary_name": "M54 (Messier Object 54)",
+      "object_type": "Planetary Nebula",
+      "constellation": "CYG",
+      "distance_ly": 3620.0,
+      "apparent_magnitude": 9.4,
+      "ra_deg": 325.8000000000002,
+      "dec_deg": 40.2
+    }
+  },
+  {
+    "object_id": "DSO_M55",
+    "title": "M55 (Messier Object 55)",
+    "category": "Globular Cluster",
+    "content_chunk": "Object Name: M55 (Messier Object 55)\nObject Type: Globular Cluster\nConstellation: UMA\nDistance: 42000.0 light years (12877.27345196777 pc)\nCoordinates: RA 23h 54m 00s (358.5000000000001 deg), Dec +41\u00b0 00\u2032 00\u2033 (41.5 deg)\nApparent Magnitude: 8.3, Absolute Magnitude: -7.0\nDiscovered: 1781 by Charles Messier\nCatalog Cross References: Messier: M55, NGC_IC: NGC 4035",
+    "metadata": {
+      "primary_name": "M55 (Messier Object 55)",
+      "object_type": "Globular Cluster",
+      "constellation": "UMA",
+      "distance_ly": 42000.0,
+      "apparent_magnitude": 8.3,
+      "ra_deg": 358.5000000000001,
+      "dec_deg": 41.5
+    }
+  },
+  {
+    "object_id": "DSO_M56",
+    "title": "M56 (Messier Object 56)",
+    "category": "Open Cluster",
+    "content_chunk": "Object Name: M56 (Messier Object 56)\nObject Type: Open Cluster\nConstellation: HER\nDistance: 5300.0 light years (1624.98926893879 pc)\nCoordinates: RA 02h 04m 00s (31.200000000000188 deg), Dec +42\u00b0 00\u2032 00\u2033 (42.8 deg)\nApparent Magnitude: 7.4, Absolute Magnitude: -3.5\nDiscovered: 1781 by Charles Messier\nCatalog Cross References: Messier: M56, NGC_IC: NGC 4072",
+    "metadata": {
+      "primary_name": "M56 (Messier Object 56)",
+      "object_type": "Open Cluster",
+      "constellation": "HER",
+      "distance_ly": 5300.0,
+      "apparent_magnitude": 7.4,
+      "ra_deg": 31.200000000000188,
+      "dec_deg": 42.8
+    }
+  },
+  {
+    "object_id": "DSO_M58",
+    "title": "M58 (Messier Object 58)",
+    "category": "Galaxy",
+    "content_chunk": "Object Name: M58 (Messier Object 58)\nObject Type: Elliptical Galaxy\nConstellation: PER\nDistance: 70600000.0 light years (21646083.46926011 pc)\nCoordinates: RA 06h 26m 00s (96.60000000000018 deg), Dec +45\u00b0 00\u2032 00\u2033 (45.400000000000006 deg)\nApparent Magnitude: 9.3, Absolute Magnitude: -20.5\nDiscovered: 1781 by Charles Messier\nGalaxy Details: Hubble Type SA(s)b, Category Spiral, Total Mass 1000000000000.0 Solar, Diameter 30.0 kpc, Star Formation Rate 2.5 M_sun/yr, SMBH Mass 100000000.0 Solar, AGN Type: None, Interacting: No\nCatalog Cross References: Messier: M58, NGC_IC: NGC 4146",
+    "metadata": {
+      "primary_name": "M58 (Messier Object 58)",
+      "object_type": "Elliptical Galaxy",
+      "constellation": "PER",
+      "distance_ly": 70600000.0,
+      "apparent_magnitude": 9.3,
+      "ra_deg": 96.60000000000018,
+      "dec_deg": 45.400000000000006
+    }
+  },
+  {
+    "object_id": "DSO_M59",
+    "title": "M59 (Messier Object 59)",
+    "category": "Planetary Nebula",
+    "content_chunk": "Object Name: M59 (Messier Object 59)\nObject Type: Planetary Nebula\nConstellation: AUR\nDistance: 3770.0 light years (1155.8885931885357 pc)\nCoordinates: RA 08h 37m 00s (129.30000000000007 deg), Dec +46\u00b0 00\u2032 00\u2033 (46.7 deg)\nApparent Magnitude: 9.9, Absolute Magnitude: -0.5\nDiscovered: 1781 by Charles Messier\nCatalog Cross References: Messier: M59, NGC_IC: NGC 4183",
+    "metadata": {
+      "primary_name": "M59 (Messier Object 59)",
+      "object_type": "Planetary Nebula",
+      "constellation": "AUR",
+      "distance_ly": 3770.0,
+      "apparent_magnitude": 9.9,
+      "ra_deg": 129.30000000000007,
+      "dec_deg": 46.7
+    }
+  },
+  {
+    "object_id": "DSO_M60",
+    "title": "M60 (Messier Object 60)",
+    "category": "Globular Cluster",
+    "content_chunk": "Object Name: M60 (Messier Object 60)\nObject Type: Globular Cluster\nConstellation: SGR\nDistance: 44000.0 light years (13490.476949680522 pc)\nCoordinates: RA 10h 48m 00s (162.00000000000017 deg), Dec +48\u00b0 00\u2032 00\u2033 (48.0 deg)\nApparent Magnitude: 6.5, Absolute Magnitude: -7.0\nDiscovered: 1781 by Charles Messier\nCatalog Cross References: Messier: M60, NGC_IC: NGC 4220",
+    "metadata": {
+      "primary_name": "M60 (Messier Object 60)",
+      "object_type": "Globular Cluster",
+      "constellation": "SGR",
+      "distance_ly": 44000.0,
+      "apparent_magnitude": 6.5,
+      "ra_deg": 162.00000000000017,
+      "dec_deg": 48.0
+    }
+  },
+  {
+    "object_id": "DSO_M61",
+    "title": "M61 (Messier Object 61)",
+    "category": "Open Cluster",
+    "content_chunk": "Object Name: M61 (Messier Object 61)\nObject Type: Open Cluster\nConstellation: OPH\nDistance: 5550.0 light years (1701.639706152884 pc)\nCoordinates: RA 12h 58m 00s (194.70000000000027 deg), Dec +49\u00b0 00\u2032 00\u2033 (49.3 deg)\nApparent Magnitude: 5.15, Absolute Magnitude: -3.5\nDiscovered: 1781 by Charles Messier\nCatalog Cross References: Messier: M61, NGC_IC: NGC 4257",
+    "metadata": {
+      "primary_name": "M61 (Messier Object 61)",
+      "object_type": "Open Cluster",
+      "constellation": "OPH",
+      "distance_ly": 5550.0,
+      "apparent_magnitude": 5.15,
+      "ra_deg": 194.70000000000027,
+      "dec_deg": 49.3
+    }
+  },
+  {
+    "object_id": "DSO_M62",
+    "title": "M62 (Messier Object 62)",
+    "category": "Galaxy",
+    "content_chunk": "Object Name: M62 (Messier Object 62)\nObject Type: Spiral Galaxy\nConstellation: VIR\nDistance: 73400000.0 light years (22504568.366057962 pc)\nCoordinates: RA 15h 09m 00s (227.39999999999995 deg), Dec +50\u00b0 00\u2032 00\u2033 (50.60000000000001 deg)\nApparent Magnitude: 9.7, Absolute Magnitude: -20.5\nDiscovered: 1781 by Charles Messier\nGalaxy Details: Hubble Type SA(s)b, Category Spiral, Total Mass 1000000000000.0 Solar, Diameter 30.0 kpc, Star Formation Rate 2.5 M_sun/yr, SMBH Mass 100000000.0 Solar, AGN Type: None, Interacting: No\nCatalog Cross References: Messier: M62, NGC_IC: NGC 4294",
+    "metadata": {
+      "primary_name": "M62 (Messier Object 62)",
+      "object_type": "Spiral Galaxy",
+      "constellation": "VIR",
+      "distance_ly": 73400000.0,
+      "apparent_magnitude": 9.7,
+      "ra_deg": 227.39999999999995,
+      "dec_deg": 50.60000000000001
+    }
+  },
+  {
+    "object_id": "DSO_M63",
+    "title": "M63 (Messier Object 63)",
+    "category": "Galaxy",
+    "content_chunk": "Object Name: M63 (Messier Object 63)\nObject Type: Elliptical Galaxy\nConstellation: COM\nDistance: 74100000.0 light years (22719189.590257425 pc)\nCoordinates: RA 17h 20m 00s (260.1 deg), Dec +51\u00b0 00\u2032 00\u2033 (51.900000000000006 deg)\nApparent Magnitude: 9.8, Absolute Magnitude: -20.5\nDiscovered: 1781 by Charles Messier\nGalaxy Details: Hubble Type SA(s)b, Category Spiral, Total Mass 1000000000000.0 Solar, Diameter 30.0 kpc, Star Formation Rate 2.5 M_sun/yr, SMBH Mass 100000000.0 Solar, AGN Type: None, Interacting: No\nCatalog Cross References: Messier: M63, NGC_IC: NGC 4331",
+    "metadata": {
+      "primary_name": "M63 (Messier Object 63)",
+      "object_type": "Elliptical Galaxy",
+      "constellation": "COM",
+      "distance_ly": 74100000.0,
+      "apparent_magnitude": 9.8,
+      "ra_deg": 260.1,
+      "dec_deg": 51.900000000000006
+    }
+  },
+  {
+    "object_id": "DSO_M65",
+    "title": "M65 (Messier Object 65)",
+    "category": "Globular Cluster",
+    "content_chunk": "Object Name: M65 (Messier Object 65)\nObject Type: Globular Cluster\nConstellation: UMA\nDistance: 46000.0 light years (14103.680447393273 pc)\nCoordinates: RA 21h 42m 00s (325.5000000000002 deg), Dec +54\u00b0 00\u2032 00\u2033 (54.5 deg)\nApparent Magnitude: 7.1, Absolute Magnitude: -7.0\nDiscovered: 1781 by Charles Messier\nCatalog Cross References: Messier: M65, NGC_IC: NGC 4405",
+    "metadata": {
+      "primary_name": "M65 (Messier Object 65)",
+      "object_type": "Globular Cluster",
+      "constellation": "UMA",
+      "distance_ly": 46000.0,
+      "apparent_magnitude": 7.1,
+      "ra_deg": 325.5000000000002,
+      "dec_deg": 54.5
+    }
+  },
+  {
+    "object_id": "DSO_M66",
+    "title": "M66 (Messier Object 66)",
+    "category": "Open Cluster",
+    "content_chunk": "Object Name: M66 (Messier Object 66)\nObject Type: Open Cluster\nConstellation: HER\nDistance: 5800.0 light years (1778.2901433669779 pc)\nCoordinates: RA 23h 52m 00s (358.2000000000004 deg), Dec +55\u00b0 00\u2032 00\u2033 (55.8 deg)\nApparent Magnitude: 5.9, Absolute Magnitude: -3.5\nDiscovered: 1781 by Charles Messier\nCatalog Cross References: Messier: M66, NGC_IC: NGC 4442",
+    "metadata": {
+      "primary_name": "M66 (Messier Object 66)",
+      "object_type": "Open Cluster",
+      "constellation": "HER",
+      "distance_ly": 5800.0,
+      "apparent_magnitude": 5.9,
+      "ra_deg": 358.2000000000004,
+      "dec_deg": 55.8
+    }
+  },
+  {
+    "object_id": "DSO_M67",
+    "title": "M67 (Messier Object 67)",
+    "category": "Galaxy",
+    "content_chunk": "Object Name: M67 (Messier Object 67)\nObject Type: Spiral Galaxy\nConstellation: SCO\nDistance: 76900000.0 light years (23577674.487055276 pc)\nCoordinates: RA 02h 03m 00s (30.900000000000034 deg), Dec +57\u00b0 00\u2032 00\u2033 (57.10000000000001 deg)\nApparent Magnitude: 10.2, Absolute Magnitude: -20.5\nDiscovered: 1781 by Charles Messier\nGalaxy Details: Hubble Type SA(s)b, Category Spiral, Total Mass 1000000000000.0 Solar, Diameter 30.0 kpc, Star Formation Rate 2.5 M_sun/yr, SMBH Mass 100000000.0 Solar, AGN Type: None, Interacting: No\nCatalog Cross References: Messier: M67, NGC_IC: NGC 4479",
+    "metadata": {
+      "primary_name": "M67 (Messier Object 67)",
+      "object_type": "Spiral Galaxy",
+      "constellation": "SCO",
+      "distance_ly": 76900000.0,
+      "apparent_magnitude": 10.2,
+      "ra_deg": 30.900000000000034,
+      "dec_deg": 57.10000000000001
+    }
+  },
+  {
+    "object_id": "DSO_M68",
+    "title": "M68 (Messier Object 68)",
+    "category": "Galaxy",
+    "content_chunk": "Object Name: M68 (Messier Object 68)\nObject Type: Elliptical Galaxy\nConstellation: PER\nDistance: 77600000.0 light years (23792295.71125474 pc)\nCoordinates: RA 04h 14m 00s (63.600000000000136 deg), Dec +58\u00b0 00\u2032 00\u2033 (58.400000000000006 deg)\nApparent Magnitude: 10.3, Absolute Magnitude: -20.5\nDiscovered: 1781 by Charles Messier\nGalaxy Details: Hubble Type SA(s)b, Category Spiral, Total Mass 1000000000000.0 Solar, Diameter 30.0 kpc, Star Formation Rate 2.5 M_sun/yr, SMBH Mass 100000000.0 Solar, AGN Type: None, Interacting: No\nCatalog Cross References: Messier: M68, NGC_IC: NGC 4516",
+    "metadata": {
+      "primary_name": "M68 (Messier Object 68)",
+      "object_type": "Elliptical Galaxy",
+      "constellation": "PER",
+      "distance_ly": 77600000.0,
+      "apparent_magnitude": 10.3,
+      "ra_deg": 63.600000000000136,
+      "dec_deg": 58.400000000000006
+    }
+  },
+  {
+    "object_id": "DSO_M69",
+    "title": "M69 (Messier Object 69)",
+    "category": "Planetary Nebula",
+    "content_chunk": "Object Name: M69 (Messier Object 69)\nObject Type: Planetary Nebula\nConstellation: AUR\nDistance: 4070.0 light years (1247.8691178454483 pc)\nCoordinates: RA 06h 25m 00s (96.30000000000024 deg), Dec +59\u00b0 00\u2032 00\u2033 (59.7 deg)\nApparent Magnitude: 8.9, Absolute Magnitude: -0.5\nDiscovered: 1781 by Charles Messier\nCatalog Cross References: Messier: M69, NGC_IC: NGC 4553",
+    "metadata": {
+      "primary_name": "M69 (Messier Object 69)",
+      "object_type": "Planetary Nebula",
+      "constellation": "AUR",
+      "distance_ly": 4070.0,
+      "apparent_magnitude": 8.9,
+      "ra_deg": 96.30000000000024,
+      "dec_deg": 59.7
+    }
+  },
+  {
+    "object_id": "DSO_M70",
+    "title": "M70 (Messier Object 70)",
+    "category": "Globular Cluster",
+    "content_chunk": "Object Name: M70 (Messier Object 70)\nObject Type: Globular Cluster\nConstellation: SGR\nDistance: 48000.0 light years (14716.883945106023 pc)\nCoordinates: RA 08h 36m 00s (129.00000000000034 deg), Dec -29\u00b0 00\u2032 00\u2033 (-29.0 deg)\nApparent Magnitude: 7.7, Absolute Magnitude: -7.0\nDiscovered: 1781 by Charles Messier\nCatalog Cross References: Messier: M70, NGC_IC: NGC 4590",
+    "metadata": {
+      "primary_name": "M70 (Messier Object 70)",
+      "object_type": "Globular Cluster",
+      "constellation": "SGR",
+      "distance_ly": 48000.0,
+      "apparent_magnitude": 7.7,
+      "ra_deg": 129.00000000000034,
+      "dec_deg": -29.0
+    }
+  },
+  {
+    "object_id": "DSO_M71",
+    "title": "M71 (Messier Object 71)",
+    "category": "Open Cluster",
+    "content_chunk": "Object Name: M71 (Messier Object 71)\nObject Type: Open Cluster\nConstellation: OPH\nDistance: 6050.0 light years (1854.9405805810718 pc)\nCoordinates: RA 10h 46m 00s (161.70000000000002 deg), Dec -27\u00b0 00\u2032 00\u2033 (-27.700000000000003 deg)\nApparent Magnitude: 6.65, Absolute Magnitude: -3.5\nDiscovered: 1781 by Charles Messier\nCatalog Cross References: Messier: M71, NGC_IC: NGC 4627",
+    "metadata": {
+      "primary_name": "M71 (Messier Object 71)",
+      "object_type": "Open Cluster",
+      "constellation": "OPH",
+      "distance_ly": 6050.0,
+      "apparent_magnitude": 6.65,
+      "ra_deg": 161.70000000000002,
+      "dec_deg": -27.700000000000003
+    }
+  },
+  {
+    "object_id": "DSO_M72",
+    "title": "M72 (Messier Object 72)",
+    "category": "Galaxy",
+    "content_chunk": "Object Name: M72 (Messier Object 72)\nObject Type: Spiral Galaxy\nConstellation: VIR\nDistance: 80400000.0 light years (24650780.60805259 pc)\nCoordinates: RA 12h 57m 00s (194.40000000000012 deg), Dec -26\u00b0 00\u2032 00\u2033 (-26.39999999999999 deg)\nApparent Magnitude: 10.7, Absolute Magnitude: -20.5\nDiscovered: 1781 by Charles Messier\nGalaxy Details: Hubble Type SA(s)b, Category Spiral, Total Mass 1000000000000.0 Solar, Diameter 30.0 kpc, Star Formation Rate 2.5 M_sun/yr, SMBH Mass 100000000.0 Solar, AGN Type: None, Interacting: No\nCatalog Cross References: Messier: M72, NGC_IC: NGC 4664",
+    "metadata": {
+      "primary_name": "M72 (Messier Object 72)",
+      "object_type": "Spiral Galaxy",
+      "constellation": "VIR",
+      "distance_ly": 80400000.0,
+      "apparent_magnitude": 10.7,
+      "ra_deg": 194.40000000000012,
+      "dec_deg": -26.39999999999999
+    }
+  },
+  {
+    "object_id": "DSO_M73",
+    "title": "M73 (Messier Object 73)",
+    "category": "Galaxy",
+    "content_chunk": "Object Name: M73 (Messier Object 73)\nObject Type: Elliptical Galaxy\nConstellation: COM\nDistance: 81100000.0 light years (24865401.83225205 pc)\nCoordinates: RA 15h 08m 00s (227.10000000000022 deg), Dec -25\u00b0 00\u2032 00\u2033 (-25.099999999999994 deg)\nApparent Magnitude: 10.8, Absolute Magnitude: -20.5\nDiscovered: 1781 by Charles Messier\nGalaxy Details: Hubble Type SA(s)b, Category Spiral, Total Mass 1000000000000.0 Solar, Diameter 30.0 kpc, Star Formation Rate 2.5 M_sun/yr, SMBH Mass 100000000.0 Solar, AGN Type: None, Interacting: No\nCatalog Cross References: Messier: M73, NGC_IC: NGC 4701",
+    "metadata": {
+      "primary_name": "M73 (Messier Object 73)",
+      "object_type": "Elliptical Galaxy",
+      "constellation": "COM",
+      "distance_ly": 81100000.0,
+      "apparent_magnitude": 10.8,
+      "ra_deg": 227.10000000000022,
+      "dec_deg": -25.099999999999994
+    }
+  },
+  {
+    "object_id": "DSO_M74",
+    "title": "M74 (Messier Object 74)",
+    "category": "Planetary Nebula",
+    "content_chunk": "Object Name: M74 (Messier Object 74)\nObject Type: Planetary Nebula\nConstellation: CYG\nDistance: 4220.0 light years (1293.8593801739046 pc)\nCoordinates: RA 17h 19m 00s (259.8000000000003 deg), Dec -23\u00b0 00\u2032 00\u2033 (-23.799999999999997 deg)\nApparent Magnitude: 9.4, Absolute Magnitude: -0.5\nDiscovered: 1781 by Charles Messier\nCatalog Cross References: Messier: M74, NGC_IC: NGC 4738",
+    "metadata": {
+      "primary_name": "M74 (Messier Object 74)",
+      "object_type": "Planetary Nebula",
+      "constellation": "CYG",
+      "distance_ly": 4220.0,
+      "apparent_magnitude": 9.4,
+      "ra_deg": 259.8000000000003,
+      "dec_deg": -23.799999999999997
+    }
+  },
+  {
+    "object_id": "DSO_M75",
+    "title": "M75 (Messier Object 75)",
+    "category": "Globular Cluster",
+    "content_chunk": "Object Name: M75 (Messier Object 75)\nObject Type: Globular Cluster\nConstellation: UMA\nDistance: 50000.0 light years (15330.087442818774 pc)\nCoordinates: RA 19h 30m 00s (292.5 deg), Dec -22\u00b0 00\u2032 00\u2033 (-22.5 deg)\nApparent Magnitude: 8.3, Absolute Magnitude: -7.0\nDiscovered: 1781 by Charles Messier\nCatalog Cross References: Messier: M75, NGC_IC: NGC 4775",
+    "metadata": {
+      "primary_name": "M75 (Messier Object 75)",
+      "object_type": "Globular Cluster",
+      "constellation": "UMA",
+      "distance_ly": 50000.0,
+      "apparent_magnitude": 8.3,
+      "ra_deg": 292.5,
+      "dec_deg": -22.5
+    }
+  },
+  {
+    "object_id": "DSO_M76",
+    "title": "M76 (Messier Object 76)",
+    "category": "Open Cluster",
+    "content_chunk": "Object Name: M76 (Messier Object 76)\nObject Type: Open Cluster\nConstellation: HER\nDistance: 6300.0 light years (1931.5910177951657 pc)\nCoordinates: RA 21h 40m 00s (325.2000000000001 deg), Dec -21\u00b0 00\u2032 00\u2033 (-21.200000000000003 deg)\nApparent Magnitude: 7.4, Absolute Magnitude: -3.5\nDiscovered: 1781 by Charles Messier\nCatalog Cross References: Messier: M76, NGC_IC: NGC 4812",
+    "metadata": {
+      "primary_name": "M76 (Messier Object 76)",
+      "object_type": "Open Cluster",
+      "constellation": "HER",
+      "distance_ly": 6300.0,
+      "apparent_magnitude": 7.4,
+      "ra_deg": 325.2000000000001,
+      "dec_deg": -21.200000000000003
+    }
+  },
+  {
+    "object_id": "DSO_M77",
+    "title": "M77 (Messier Object 77)",
+    "category": "Galaxy",
+    "content_chunk": "Object Name: M77 (Messier Object 77)\nObject Type: Spiral Galaxy\nConstellation: SCO\nDistance: 83900000.0 light years (25723886.729049902 pc)\nCoordinates: RA 23h 51m 00s (357.9000000000002 deg), Dec -19\u00b0 00\u2032 00\u2033 (-19.89999999999999 deg)\nApparent Magnitude: 8.7, Absolute Magnitude: -20.5\nDiscovered: 1781 by Charles Messier\nGalaxy Details: Hubble Type SA(s)b, Category Spiral, Total Mass 1000000000000.0 Solar, Diameter 30.0 kpc, Star Formation Rate 2.5 M_sun/yr, SMBH Mass 100000000.0 Solar, AGN Type: None, Interacting: No\nCatalog Cross References: Messier: M77, NGC_IC: NGC 4849",
+    "metadata": {
+      "primary_name": "M77 (Messier Object 77)",
+      "object_type": "Spiral Galaxy",
+      "constellation": "SCO",
+      "distance_ly": 83900000.0,
+      "apparent_magnitude": 8.7,
+      "ra_deg": 357.9000000000002,
+      "dec_deg": -19.89999999999999
+    }
+  },
+  {
+    "object_id": "DSO_M78",
+    "title": "M78 (Messier Object 78)",
+    "category": "Galaxy",
+    "content_chunk": "Object Name: M78 (Messier Object 78)\nObject Type: Elliptical Galaxy\nConstellation: PER\nDistance: 84600000.0 light years (25938507.95324937 pc)\nCoordinates: RA 02h 02m 00s (30.600000000000307 deg), Dec -18\u00b0 00\u2032 00\u2033 (-18.599999999999994 deg)\nApparent Magnitude: 8.8, Absolute Magnitude: -20.5\nDiscovered: 1781 by Charles Messier\nGalaxy Details: Hubble Type SA(s)b, Category Spiral, Total Mass 1000000000000.0 Solar, Diameter 30.0 kpc, Star Formation Rate 2.5 M_sun/yr, SMBH Mass 100000000.0 Solar, AGN Type: None, Interacting: No\nCatalog Cross References: Messier: M78, NGC_IC: NGC 4886",
+    "metadata": {
+      "primary_name": "M78 (Messier Object 78)",
+      "object_type": "Elliptical Galaxy",
+      "constellation": "PER",
+      "distance_ly": 84600000.0,
+      "apparent_magnitude": 8.8,
+      "ra_deg": 30.600000000000307,
+      "dec_deg": -18.599999999999994
+    }
+  },
+  {
+    "object_id": "DSO_M79",
+    "title": "M79 (Messier Object 79)",
+    "category": "Planetary Nebula",
+    "content_chunk": "Object Name: M79 (Messier Object 79)\nObject Type: Planetary Nebula\nConstellation: AUR\nDistance: 4370.0 light years (1339.849642502361 pc)\nCoordinates: RA 04h 13m 00s (63.29999999999998 deg), Dec -17\u00b0 00\u2032 00\u2033 (-17.299999999999997 deg)\nApparent Magnitude: 9.9, Absolute Magnitude: -0.5\nDiscovered: 1781 by Charles Messier\nCatalog Cross References: Messier: M79, NGC_IC: NGC 4923",
+    "metadata": {
+      "primary_name": "M79 (Messier Object 79)",
+      "object_type": "Planetary Nebula",
+      "constellation": "AUR",
+      "distance_ly": 4370.0,
+      "apparent_magnitude": 9.9,
+      "ra_deg": 63.29999999999998,
+      "dec_deg": -17.299999999999997
+    }
+  },
+  {
+    "object_id": "DSO_M80",
+    "title": "M80 (Messier Object 80)",
+    "category": "Globular Cluster",
+    "content_chunk": "Object Name: M80 (Messier Object 80)\nObject Type: Globular Cluster\nConstellation: SGR\nDistance: 52000.0 light years (15943.290940531526 pc)\nCoordinates: RA 06h 24m 00s (96.00000000000009 deg), Dec -16\u00b0 00\u2032 00\u2033 (-16.0 deg)\nApparent Magnitude: 6.5, Absolute Magnitude: -7.0\nDiscovered: 1781 by Charles Messier\nCatalog Cross References: Messier: M80, NGC_IC: NGC 4960",
+    "metadata": {
+      "primary_name": "M80 (Messier Object 80)",
+      "object_type": "Globular Cluster",
+      "constellation": "SGR",
+      "distance_ly": 52000.0,
+      "apparent_magnitude": 6.5,
+      "ra_deg": 96.00000000000009,
+      "dec_deg": -16.0
+    }
+  },
+  {
+    "object_id": "DSO_M83",
+    "title": "M83 (Messier Object 83)",
+    "category": "Galaxy",
+    "content_chunk": "Object Name: M83 (Messier Object 83)\nObject Type: Elliptical Galaxy\nConstellation: COM\nDistance: 88100000.0 light years (27011614.074246682 pc)\nCoordinates: RA 12h 56m 00s (194.1000000000004 deg), Dec -12\u00b0 00\u2032 00\u2033 (-12.099999999999994 deg)\nApparent Magnitude: 9.3, Absolute Magnitude: -20.5\nDiscovered: 1781 by Charles Messier\nGalaxy Details: Hubble Type SA(s)b, Category Spiral, Total Mass 1000000000000.0 Solar, Diameter 30.0 kpc, Star Formation Rate 2.5 M_sun/yr, SMBH Mass 100000000.0 Solar, AGN Type: None, Interacting: No\nCatalog Cross References: Messier: M83, NGC_IC: NGC 5071",
+    "metadata": {
+      "primary_name": "M83 (Messier Object 83)",
+      "object_type": "Elliptical Galaxy",
+      "constellation": "COM",
+      "distance_ly": 88100000.0,
+      "apparent_magnitude": 9.3,
+      "ra_deg": 194.1000000000004,
+      "dec_deg": -12.099999999999994
+    }
+  },
+  {
+    "object_id": "DSO_M84",
+    "title": "M84 (Messier Object 84)",
+    "category": "Planetary Nebula",
+    "content_chunk": "Object Name: M84 (Messier Object 84)\nObject Type: Planetary Nebula\nConstellation: CYG\nDistance: 4520.0 light years (1385.8399048308172 pc)\nCoordinates: RA 15h 07m 00s (226.80000000000007 deg), Dec -10\u00b0 00\u2032 00\u2033 (-10.799999999999997 deg)\nApparent Magnitude: 8.4, Absolute Magnitude: -0.5\nDiscovered: 1781 by Charles Messier\nCatalog Cross References: Messier: M84, NGC_IC: NGC 5108",
+    "metadata": {
+      "primary_name": "M84 (Messier Object 84)",
+      "object_type": "Planetary Nebula",
+      "constellation": "CYG",
+      "distance_ly": 4520.0,
+      "apparent_magnitude": 8.4,
+      "ra_deg": 226.80000000000007,
+      "dec_deg": -10.799999999999997
+    }
+  },
+  {
+    "object_id": "DSO_M85",
+    "title": "M85 (Messier Object 85)",
+    "category": "Globular Cluster",
+    "content_chunk": "Object Name: M85 (Messier Object 85)\nObject Type: Globular Cluster\nConstellation: UMA\nDistance: 54000.0 light years (16556.494438244277 pc)\nCoordinates: RA 17h 18m 00s (259.50000000000017 deg), Dec -09\u00b0 00\u2032 00\u2033 (-9.5 deg)\nApparent Magnitude: 7.1, Absolute Magnitude: -7.0\nDiscovered: 1781 by Charles Messier\nCatalog Cross References: Messier: M85, NGC_IC: NGC 5145",
+    "metadata": {
+      "primary_name": "M85 (Messier Object 85)",
+      "object_type": "Globular Cluster",
+      "constellation": "UMA",
+      "distance_ly": 54000.0,
+      "apparent_magnitude": 7.1,
+      "ra_deg": 259.50000000000017,
+      "dec_deg": -9.5
+    }
+  },
+  {
+    "object_id": "DSO_M86",
+    "title": "M86 (Messier Object 86)",
+    "category": "Open Cluster",
+    "content_chunk": "Object Name: M86 (Messier Object 86)\nObject Type: Open Cluster\nConstellation: HER\nDistance: 6800.0 light years (2084.8918922233534 pc)\nCoordinates: RA 19h 28m 00s (292.2000000000003 deg), Dec -08\u00b0 00\u2032 00\u2033 (-8.200000000000003 deg)\nApparent Magnitude: 5.9, Absolute Magnitude: -3.5\nDiscovered: 1781 by Charles Messier\nCatalog Cross References: Messier: M86, NGC_IC: NGC 5182",
+    "metadata": {
+      "primary_name": "M86 (Messier Object 86)",
+      "object_type": "Open Cluster",
+      "constellation": "HER",
+      "distance_ly": 6800.0,
+      "apparent_magnitude": 5.9,
+      "ra_deg": 292.2000000000003,
+      "dec_deg": -8.200000000000003
+    }
+  },
+  {
+    "object_id": "DSO_M88",
+    "title": "M88 (Messier Object 88)",
+    "category": "Galaxy",
+    "content_chunk": "Object Name: M88 (Messier Object 88)\nObject Type: Elliptical Galaxy\nConstellation: PER\nDistance: 91600000.0 light years (28084720.195243996 pc)\nCoordinates: RA 23h 50m 00s (357.6 deg), Dec -05\u00b0 00\u2032 00\u2033 (-5.599999999999994 deg)\nApparent Magnitude: 9.8, Absolute Magnitude: -20.5\nDiscovered: 1781 by Charles Messier\nGalaxy Details: Hubble Type SA(s)b, Category Spiral, Total Mass 1000000000000.0 Solar, Diameter 30.0 kpc, Star Formation Rate 2.5 M_sun/yr, SMBH Mass 100000000.0 Solar, AGN Type: None, Interacting: No\nCatalog Cross References: Messier: M88, NGC_IC: NGC 5256",
+    "metadata": {
+      "primary_name": "M88 (Messier Object 88)",
+      "object_type": "Elliptical Galaxy",
+      "constellation": "PER",
+      "distance_ly": 91600000.0,
+      "apparent_magnitude": 9.8,
+      "ra_deg": 357.6,
+      "dec_deg": -5.599999999999994
+    }
+  },
+  {
+    "object_id": "DSO_M89",
+    "title": "M89 (Messier Object 89)",
+    "category": "Planetary Nebula",
+    "content_chunk": "Object Name: M89 (Messier Object 89)\nObject Type: Planetary Nebula\nConstellation: AUR\nDistance: 4670.0 light years (1431.8301671592735 pc)\nCoordinates: RA 02h 01m 00s (30.300000000000153 deg), Dec -04\u00b0 00\u2032 00\u2033 (-4.299999999999997 deg)\nApparent Magnitude: 8.9, Absolute Magnitude: -0.5\nDiscovered: 1781 by Charles Messier\nCatalog Cross References: Messier: M89, NGC_IC: NGC 5293",
+    "metadata": {
+      "primary_name": "M89 (Messier Object 89)",
+      "object_type": "Planetary Nebula",
+      "constellation": "AUR",
+      "distance_ly": 4670.0,
+      "apparent_magnitude": 8.9,
+      "ra_deg": 30.300000000000153,
+      "dec_deg": -4.299999999999997
+    }
+  },
+  {
+    "object_id": "DSO_M90",
+    "title": "M90 (Messier Object 90)",
+    "category": "Globular Cluster",
+    "content_chunk": "Object Name: M90 (Messier Object 90)\nObject Type: Globular Cluster\nConstellation: SGR\nDistance: 56000.0 light years (17169.69793595703 pc)\nCoordinates: RA 04h 12m 00s (63.000000000000256 deg), Dec -03\u00b0 00\u2032 00\u2033 (-3.0 deg)\nApparent Magnitude: 7.7, Absolute Magnitude: -7.0\nDiscovered: 1781 by Charles Messier\nCatalog Cross References: Messier: M90, NGC_IC: NGC 5330",
+    "metadata": {
+      "primary_name": "M90 (Messier Object 90)",
+      "object_type": "Globular Cluster",
+      "constellation": "SGR",
+      "distance_ly": 56000.0,
+      "apparent_magnitude": 7.7,
+      "ra_deg": 63.000000000000256,
+      "dec_deg": -3.0
+    }
+  },
+  {
+    "object_id": "DSO_M91",
+    "title": "M91 (Messier Object 91)",
+    "category": "Open Cluster",
+    "content_chunk": "Object Name: M91 (Messier Object 91)\nObject Type: Open Cluster\nConstellation: OPH\nDistance: 7050.0 light years (2161.5423294374473 pc)\nCoordinates: RA 06h 22m 00s (95.70000000000036 deg), Dec -01\u00b0 00\u2032 00\u2033 (-1.7000000000000028 deg)\nApparent Magnitude: 6.65, Absolute Magnitude: -3.5\nDiscovered: 1781 by Charles Messier\nCatalog Cross References: Messier: M91, NGC_IC: NGC 5367",
+    "metadata": {
+      "primary_name": "M91 (Messier Object 91)",
+      "object_type": "Open Cluster",
+      "constellation": "OPH",
+      "distance_ly": 7050.0,
+      "apparent_magnitude": 6.65,
+      "ra_deg": 95.70000000000036,
+      "dec_deg": -1.7000000000000028
+    }
+  },
+  {
+    "object_id": "DSO_M92",
+    "title": "M92 (Messier Object 92)",
+    "category": "Galaxy",
+    "content_chunk": "Object Name: M92 (Messier Object 92)\nObject Type: Spiral Galaxy\nConstellation: VIR\nDistance: 94400000.0 light years (28943205.092041846 pc)\nCoordinates: RA 08h 33m 00s (128.40000000000003 deg), Dec -00\u00b0 00\u2032 00\u2033 (-0.3999999999999915 deg)\nApparent Magnitude: 10.2, Absolute Magnitude: -20.5\nDiscovered: 1781 by Charles Messier\nGalaxy Details: Hubble Type SA(s)b, Category Spiral, Total Mass 1000000000000.0 Solar, Diameter 30.0 kpc, Star Formation Rate 2.5 M_sun/yr, SMBH Mass 100000000.0 Solar, AGN Type: None, Interacting: No\nCatalog Cross References: Messier: M92, NGC_IC: NGC 5404",
+    "metadata": {
+      "primary_name": "M92 (Messier Object 92)",
+      "object_type": "Spiral Galaxy",
+      "constellation": "VIR",
+      "distance_ly": 94400000.0,
+      "apparent_magnitude": 10.2,
+      "ra_deg": 128.40000000000003,
+      "dec_deg": -0.3999999999999915
+    }
+  },
+  {
+    "object_id": "DSO_M93",
+    "title": "M93 (Messier Object 93)",
+    "category": "Galaxy",
+    "content_chunk": "Object Name: M93 (Messier Object 93)\nObject Type: Elliptical Galaxy\nConstellation: COM\nDistance: 95100000.0 light years (29157826.31624131 pc)\nCoordinates: RA 10h 44m 00s (161.10000000000014 deg), Dec +00\u00b0 00\u2032 00\u2033 (0.9000000000000057 deg)\nApparent Magnitude: 10.3, Absolute Magnitude: -20.5\nDiscovered: 1781 by Charles Messier\nGalaxy Details: Hubble Type SA(s)b, Category Spiral, Total Mass 1000000000000.0 Solar, Diameter 30.0 kpc, Star Formation Rate 2.5 M_sun/yr, SMBH Mass 100000000.0 Solar, AGN Type: None, Interacting: No\nCatalog Cross References: Messier: M93, NGC_IC: NGC 5441",
+    "metadata": {
+      "primary_name": "M93 (Messier Object 93)",
+      "object_type": "Elliptical Galaxy",
+      "constellation": "COM",
+      "distance_ly": 95100000.0,
+      "apparent_magnitude": 10.3,
+      "ra_deg": 161.10000000000014,
+      "dec_deg": 0.9000000000000057
+    }
+  },
+  {
+    "object_id": "DSO_M94",
+    "title": "M94 (Messier Object 94)",
+    "category": "Planetary Nebula",
+    "content_chunk": "Object Name: M94 (Messier Object 94)\nObject Type: Planetary Nebula\nConstellation: CYG\nDistance: 4820.0 light years (1477.8204294877298 pc)\nCoordinates: RA 12h 55m 00s (193.80000000000024 deg), Dec +02\u00b0 00\u2032 00\u2033 (2.200000000000003 deg)\nApparent Magnitude: 9.4, Absolute Magnitude: -0.5\nDiscovered: 1781 by Charles Messier\nCatalog Cross References: Messier: M94, NGC_IC: NGC 5478",
+    "metadata": {
+      "primary_name": "M94 (Messier Object 94)",
+      "object_type": "Planetary Nebula",
+      "constellation": "CYG",
+      "distance_ly": 4820.0,
+      "apparent_magnitude": 9.4,
+      "ra_deg": 193.80000000000024,
+      "dec_deg": 2.200000000000003
+    }
+  },
+  {
+    "object_id": "DSO_M95",
+    "title": "M95 (Messier Object 95)",
+    "category": "Globular Cluster",
+    "content_chunk": "Object Name: M95 (Messier Object 95)\nObject Type: Globular Cluster\nConstellation: UMA\nDistance: 58000.0 light years (17782.90143366978 pc)\nCoordinates: RA 15h 06m 00s (226.50000000000034 deg), Dec +03\u00b0 00\u2032 00\u2033 (3.5 deg)\nApparent Magnitude: 8.3, Absolute Magnitude: -7.0\nDiscovered: 1781 by Charles Messier\nCatalog Cross References: Messier: M95, NGC_IC: NGC 5515",
+    "metadata": {
+      "primary_name": "M95 (Messier Object 95)",
+      "object_type": "Globular Cluster",
+      "constellation": "UMA",
+      "distance_ly": 58000.0,
+      "apparent_magnitude": 8.3,
+      "ra_deg": 226.50000000000034,
+      "dec_deg": 3.5
+    }
+  },
+  {
+    "object_id": "DSO_M96",
+    "title": "M96 (Messier Object 96)",
+    "category": "Open Cluster",
+    "content_chunk": "Object Name: M96 (Messier Object 96)\nObject Type: Open Cluster\nConstellation: HER\nDistance: 7300.0 light years (2238.192766651541 pc)\nCoordinates: RA 17h 16m 00s (259.20000000000044 deg), Dec +04\u00b0 00\u2032 00\u2033 (4.800000000000011 deg)\nApparent Magnitude: 7.4, Absolute Magnitude: -3.5\nDiscovered: 1781 by Charles Messier\nCatalog Cross References: Messier: M96, NGC_IC: NGC 5552",
+    "metadata": {
+      "primary_name": "M96 (Messier Object 96)",
+      "object_type": "Open Cluster",
+      "constellation": "HER",
+      "distance_ly": 7300.0,
+      "apparent_magnitude": 7.4,
+      "ra_deg": 259.20000000000044,
+      "dec_deg": 4.800000000000011
+    }
+  },
+  {
+    "object_id": "DSO_M97",
+    "title": "M97 (Messier Object 97)",
+    "category": "Galaxy",
+    "content_chunk": "Object Name: M97 (Messier Object 97)\nObject Type: Spiral Galaxy\nConstellation: SCO\nDistance: 97900000.0 light years (30016311.21303916 pc)\nCoordinates: RA 19h 27m 00s (291.9000000000001 deg), Dec +06\u00b0 00\u2032 00\u2033 (6.1000000000000085 deg)\nApparent Magnitude: 10.7, Absolute Magnitude: -20.5\nDiscovered: 1781 by Charles Messier\nGalaxy Details: Hubble Type SA(s)b, Category Spiral, Total Mass 1000000000000.0 Solar, Diameter 30.0 kpc, Star Formation Rate 2.5 M_sun/yr, SMBH Mass 100000000.0 Solar, AGN Type: None, Interacting: No\nCatalog Cross References: Messier: M97, NGC_IC: NGC 5589",
+    "metadata": {
+      "primary_name": "M97 (Messier Object 97)",
+      "object_type": "Spiral Galaxy",
+      "constellation": "SCO",
+      "distance_ly": 97900000.0,
+      "apparent_magnitude": 10.7,
+      "ra_deg": 291.9000000000001,
+      "dec_deg": 6.1000000000000085
+    }
+  }
+]

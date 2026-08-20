@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 243, 244, 246;
+  --background-start-rgb: 3, 7, 18;
+  --background-end-rgb: 11, 15, 25;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: radial-gradient(circle at 50% 0%, #171c2f 0%, #080c16 50%, #030712 100%);
+  min-height: 100vh;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  overflow-x: hidden;
+}
+
+/* Glassmorphism Panels */
+.glass-panel {
+  background: rgba(17, 24, 39, 0.7);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.glass-panel-hover {
+  transition: all 0.25s ease-in-out;
+}
+
+.glass-panel-hover:hover {
+  background: rgba(31, 41, 55, 0.85);
+  border-color: rgba(56, 189, 248, 0.35);
+  box-shadow: 0 10px 30px -10px rgba(56, 189, 248, 0.15);
+}
+
+/* Cosmic Glow Accents */
+.glow-cyan {
+  box-shadow: 0 0 25px rgba(56, 189, 248, 0.25);
+}
+
+.glow-purple {
+  box-shadow: 0 0 25px rgba(168, 85, 247, 0.25);
+}
+
+/* Custom Cosmic Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #030712;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1f2937;
+  border-radius: 4px;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #374151;
+}
+
+/* Code block highlight */
+pre {
+  background: #0a0e17 !important;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 0.5rem;
+}
